@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="influences (+)"
+    id="id-ec8e9a9fa6d148d9b19c7f1c5e37b510"
+    documentation="faster payouts directly improve customer satisfaction and reduce admin overhead.">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-920fab9f95dd480488829d138c1fb2d5.xml#id-920fab9f95dd480488829d138c1fb2d5"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-40eb13902f564374a83a18716ea9d7e3.xml#id-40eb13902f564374a83a18716ea9d7e3"/>
+</archimate:InfluenceRelationship>

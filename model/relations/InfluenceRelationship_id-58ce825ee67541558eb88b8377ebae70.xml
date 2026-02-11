@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="influences (+)"
+    id="id-58ce825ee67541558eb88b8377ebae70"
+    documentation="Retaining existing customers is significantly more cost-effective than acquiring new ones.">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-c563821161fd421fbe362e94c7bf3e58.xml#id-c563821161fd421fbe362e94c7bf3e58"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-2f1ddcac3b234a55b5612a155f98cb31.xml#id-2f1ddcac3b234a55b5612a155f98cb31"/>
+</archimate:InfluenceRelationship>

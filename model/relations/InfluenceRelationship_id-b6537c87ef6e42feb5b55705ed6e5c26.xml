@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="influences (+)"
+    id="id-b6537c87ef6e42feb5b55705ed6e5c26"
+    documentation="High NPS correlates with brand advocacy and long-term market">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-d9eeb427b53a41e1a29ddec4e79ddb41.xml#id-d9eeb427b53a41e1a29ddec4e79ddb41"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-40eb13902f564374a83a18716ea9d7e3.xml#id-40eb13902f564374a83a18716ea9d7e3"/>
+</archimate:InfluenceRelationship>

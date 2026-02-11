@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="influences (+)"
+    id="id-744b9522b4c54f83972350cec03f427b"
+    documentation="Reducing leakage protects margins and allows for more competitive premiums.">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-f2643a53e4c442d5a07dbac40c8bcd07.xml#id-f2643a53e4c442d5a07dbac40c8bcd07"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-fc70a44adcf04fca9d4d3e42a995c63c.xml#id-fc70a44adcf04fca9d4d3e42a995c63c"/>
+</archimate:InfluenceRelationship>

@@ -1,7 +1,7 @@
 <archimate:InfluenceRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="influence"
+    name="influence (-)"
     id="id-835b365209af4eb6823092aaf7f51134">
   <source
       xsi:type="archimate:Assessment"
