@@ -21,7 +21,7 @@
       name="Concepts used"
       textAlignment="1">
     <bounds
-        x="1104"
+        x="1116"
         y="72"
         width="229"
         height="841"/>
@@ -332,7 +332,7 @@
           href="CompositionRelationship_id-0b359ec92ba449e69b7615e2ebfa317d.xml#id-0b359ec92ba449e69b7615e2ebfa317d"/>
     </sourceConnections>
     <bounds
-        x="576"
+        x="600"
         y="96"
         width="289"
         height="817"/>
@@ -433,7 +433,7 @@
           href="CompositionRelationship_id-9aa95a9de9884396a9faea4e2e8481d6.xml#id-9aa95a9de9884396a9faea4e2e8481d6"/>
     </sourceConnections>
     <bounds
-        x="864"
+        x="900"
         y="96"
         width="205"
         height="817"/>
@@ -534,7 +534,7 @@
       id="id-1fccfba0a8ca438ab0afb5b34948083c"
       textAlignment="1">
     <bounds
-        x="252"
+        x="264"
         y="96"
         width="325"
         height="817"/>
@@ -542,7 +542,7 @@
         xsi:type="archimate:DiagramModelNote"
         id="id-4a6f669f8985472ba09c24418572f9ed"
         textAlignment="1"
-        fillColor="#d5d5d5"
+        fillColor="#feffff"
         alpha="100"
         content="Faster payouts directly improve customer satisfaction and reduce admin overhead.">
       <bounds
@@ -555,7 +555,7 @@
         xsi:type="archimate:DiagramModelNote"
         id="id-a735ba9bfacc4b4da06ec13540fb6459"
         textAlignment="1"
-        fillColor="#d5d5d5"
+        fillColor="#feffff"
         alpha="100"
         content="Reducing leakage protects margins and allows for more competitive premiums.">
       <bounds
@@ -568,7 +568,7 @@
         xsi:type="archimate:DiagramModelNote"
         id="id-6d753037e56b4336aadd4abdfb9fb02f"
         textAlignment="1"
-        fillColor="#d5d5d5"
+        fillColor="#feffff"
         alpha="100"
         content="Retaining existing customers is significantly more cost-effective than acquiring new ones.">
       <bounds
@@ -581,7 +581,7 @@
         xsi:type="archimate:DiagramModelNote"
         id="id-c0c4f63f4b214d98a045bbbc3de04302"
         textAlignment="1"
-        fillColor="#d5d5d5"
+        fillColor="#feffff"
         alpha="100"
         content="High NPS correlates with brand advocacy and long-term market">
       <bounds
