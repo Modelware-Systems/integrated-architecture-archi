@@ -1,0 +1,11 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer satisfaction low"
+    id="id-6a6714d1d39c434ea3e47f4aa91c66a6">
+  <properties
+      key="averageCycleTime"
+      value="30 days"/>
+  <properties
+      key="customerSatisfactionNPS"
+      value="20 (low)"/>
+</archimate:Assessment>
