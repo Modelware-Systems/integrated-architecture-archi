@@ -265,16 +265,4 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-278c766bb91143f5938a275f496cc212.xml#id-278c766bb91143f5938a275f496cc212"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ff3dc18633814b44984a1e7e179302c9">
-    <bounds
-        x="524"
-        y="580"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-beefdefb5e824587b0fb01116ec7a5d5.xml#id-beefdefb5e824587b0fb01116ec7a5d5"/>
-  </children>
 </archimate:ArchimateDiagramModel>
