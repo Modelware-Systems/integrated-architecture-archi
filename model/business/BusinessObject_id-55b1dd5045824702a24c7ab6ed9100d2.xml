@@ -1,4 +1,19 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Claim Amount"
-    id="id-55b1dd5045824702a24c7ab6ed9100d2"/>
+    id="id-55b1dd5045824702a24c7ab6ed9100d2">
+  <properties
+      key="TermId"/>
+  <properties
+      key="Business Definition"/>
+  <properties
+      key="Synonym"/>
+  <properties
+      key="Approval Date"/>
+  <properties
+      key="Approved By"/>
+  <properties
+      key="Status"/>
+  <properties
+      key="Version"/>
+</archimate:BusinessObject>
