@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Taxonomies"
+    name="Example: Taxonomies"
     id="id-ac2308f4eec24b4eb5cc548c23210737">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -86,11 +86,11 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-331f905714d84190ae4f1bbf62c86328"
-      targetConnections="id-3e5e97549f9b4b6f99064a0d15362f8f id-395fc30ea38d43bbaced2e493865d2a7"
+      targetConnections="id-3e5e97549f9b4b6f99064a0d15362f8f id-395fc30ea38d43bbaced2e493865d2a7 id-23448cc1fec84838bf902af48e2f4055"
       textAlignment="1">
     <bounds
         x="948"
-        y="120"
+        y="205"
         width="217"
         height="49"/>
     <archimateElement
@@ -101,6 +101,15 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ad081649a7f64f8b8dc6fc35c73cc9ef"
       targetConnections="id-413c6a68eb4b4aecb17197b21132fc9b id-db81a4d6b9e147b082dbf7b69f73fe31 id-0c0ebde3eada4e138fd5381e58af59a5">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-23448cc1fec84838bf902af48e2f4055"
+        source="id-ad081649a7f64f8b8dc6fc35c73cc9ef"
+        target="id-331f905714d84190ae4f1bbf62c86328">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-149e9d9984f446d5af22247b90f6ec73.xml#id-149e9d9984f446d5af22247b90f6ec73"/>
+    </sourceConnections>
     <bounds
         x="42"
         y="216"
@@ -225,5 +234,16 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-173016157c4f410b81c67bb6bac51e6d.xml#id-173016157c4f410b81c67bb6bac51e6d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1153a3840e6240c2821dcf9107751c00"
+      textAlignment="1"
+      content="Learning slide - remove product category assiate to market segment. and ask what is wrong?">
+    <bounds
+        x="749"
+        y="45"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
