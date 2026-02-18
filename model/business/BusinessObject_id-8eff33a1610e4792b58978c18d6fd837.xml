@@ -6,7 +6,7 @@
       key="TermId"
       value="POL-001​"/>
   <properties
-      key="Definition"
+      key="Business Definition"
       value="A Policy is a contract between an insurer and a customer that outlines coverage terms and premium. "/>
   <properties
       key="Synonym"/>
@@ -20,4 +20,10 @@
       key="Approval Date"/>
   <properties
       key="Approved By"/>
+  <properties
+      key="Format Type"/>
+  <properties
+      key="Source System"/>
+  <properties
+      key="Valid Values"/>
 </archimate:BusinessObject>

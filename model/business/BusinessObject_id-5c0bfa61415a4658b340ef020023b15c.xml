@@ -5,7 +5,7 @@
   <properties
       key="TermId"/>
   <properties
-      key="Definition"
+      key="Business Definition"
       value="A Customer is a person or entity who holds an active insurance policy. ​"/>
   <properties
       key="Status"
