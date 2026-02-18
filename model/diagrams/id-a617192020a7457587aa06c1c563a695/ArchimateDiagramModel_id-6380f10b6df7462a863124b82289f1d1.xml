@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1. InsuranceCo - Business Glossary (Claims Domain)"
+    id="id-6380f10b6df7462a863124b82289f1d1">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5a5faec35d864ac3a061c0f4a19b7c77"
+      font="1|Lucida Grande|18.0|1|COCOA|1|LucidaGrande-Bold"
+      textAlignment="1"
+      content="High Level Capability Map . &#xA;&#xA;">
+    <bounds
+        x="201"
+        y="109"
+        width="279"
+        height="36"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-28f645a9d0f0466db163199e060a3b45"
+      font="1|Lucida Grande|18.0|1|COCOA|1|LucidaGrande-Bold"
+      textAlignment="1"
+      content="High Level Capability Map . &#xA;&#xA;">
+    <bounds
+        x="242"
+        y="277"
+        width="279"
+        height="36"/>
+  </children>
+</archimate:ArchimateDiagramModel>
