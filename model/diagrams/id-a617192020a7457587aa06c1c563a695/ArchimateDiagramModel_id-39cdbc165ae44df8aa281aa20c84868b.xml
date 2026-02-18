@@ -6,12 +6,13 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-40cdda0e35374a56b37cffef627e792b"
+      font="1|Lucida Grande|18.0|1|COCOA|1|LucidaGrande-Bold"
       textAlignment="1"
       content="Business Glossary Classification View">
     <bounds
         x="72"
         y="24"
-        width="353"
+        width="445"
         height="45"/>
   </children>
   <children
