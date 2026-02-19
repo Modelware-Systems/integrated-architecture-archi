@@ -1,18 +1,17 @@
-<archimate:BusinessObject
+<archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Customer"
-    id="id-5c0bfa61415a4658b340ef020023b15c">
+    name="Adjuster"
+    id="id-6bbba66ea7b24c90badbf45a4e7c7cb1">
   <properties
       key="TermId"/>
   <properties
       key="Business Definition"
-      value="A Customer is a person or entity who holds an active insurance policy. ​"/>
+      value="A Claim is a request that a policyholder submits to an insurer to receive compensation for a covered loss. ​"/>
+  <properties
+      key="Synonym"/>
   <properties
       key="Status"
       value="Approved"/>
-  <properties
-      key="Synonym"
-      value="Policyholder​"/>
   <properties
       key="Version"
       value="1.0"/>
@@ -20,4 +19,4 @@
       key="Approval Date"/>
   <properties
       key="Approved By"/>
-</archimate:BusinessObject>
+</archimate:BusinessRole>

@@ -1,7 +1,7 @@
-<archimate:BusinessObject
+<archimate:Contract
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Coverage"
-    id="id-5a065aa5709a4fccb4b2a681b827fb7f">
+    id="id-e0029cb1081f4fc4a5ff7b4e0212cd90">
   <properties
       key="TermId"
       value="COV-001"/>
@@ -18,4 +18,4 @@
       key="Approval Date"/>
   <properties
       key="Approved By"/>
-</archimate:BusinessObject>
+</archimate:Contract>

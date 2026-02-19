@@ -1,9 +1,10 @@
-<archimate:BusinessObject
+<archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Adjuster"
-    id="id-8a5bf65d8b054d2b850ff88fab3f0a0b">
+    name="Claim"
+    id="id-7ae9aa288bc5416095b5f03969f1dc38">
   <properties
-      key="TermId"/>
+      key="TermId"
+      value="CLM-001​"/>
   <properties
       key="Business Definition"
       value="A Claim is a request that a policyholder submits to an insurer to receive compensation for a covered loss. ​"/>
@@ -16,7 +17,9 @@
       key="Version"
       value="1.0"/>
   <properties
-      key="Approval Date"/>
+      key="Approval Date"
+      value="1 February 2026"/>
   <properties
-      key="Approved By"/>
-</archimate:BusinessObject>
+      key="Approved By"
+      value="Howard Diesel"/>
+</archimate:BusinessEvent>

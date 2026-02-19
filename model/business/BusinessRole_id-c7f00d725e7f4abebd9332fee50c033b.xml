@@ -1,23 +1,23 @@
-<archimate:BusinessObject
+<archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Policy"
-    id="id-8eff33a1610e4792b58978c18d6fd837">
+    name="Insurer"
+    id="id-c7f00d725e7f4abebd9332fee50c033b">
   <properties
       key="TermId"
-      value="POL-001​"/>
+      value="ORG-001​"/>
   <properties
       key="Business Definition"
-      value="A Policy is a contract between an insurer and a customer that outlines coverage terms and premium. "/>
+      value="An Insurer is the company or underwriter that provides the policy and coverage. ​"/>
   <properties
       key="Synonym"/>
-  <properties
-      key="Version"
-      value="1.0"/>
   <properties
       key="Status"
       value="Approved"/>
   <properties
+      key="Version"
+      value="1.0"/>
+  <properties
       key="Approval Date"/>
   <properties
       key="Approved By"/>
-</archimate:BusinessObject>
+</archimate:BusinessRole>

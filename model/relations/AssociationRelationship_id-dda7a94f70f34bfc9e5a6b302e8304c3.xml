@@ -4,8 +4,8 @@
     name="role map"
     id="id-dda7a94f70f34bfc9e5a6b302e8304c3">
   <source
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-5c0bfa61415a4658b340ef020023b15c.xml#id-5c0bfa61415a4658b340ef020023b15c"/>
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-a022904523914296b86442d203ca28cd.xml#id-a022904523914296b86442d203ca28cd"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-61c34b85e05b4a17a1104e1d0efa70ea.xml#id-61c34b85e05b4a17a1104e1d0efa70ea"/>

@@ -4,9 +4,9 @@
     name="to"
     id="id-ed5e2bc2581f47718275fe036ce670c2">
   <source
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-06b7d1d6726d41e987fe2f70cf63e910.xml#id-06b7d1d6726d41e987fe2f70cf63e910"/>
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-c7f00d725e7f4abebd9332fee50c033b.xml#id-c7f00d725e7f4abebd9332fee50c033b"/>
   <target
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-3b5774edcf6c4daf86ee7ae914233b69.xml#id-3b5774edcf6c4daf86ee7ae914233b69"/>
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-7ae9aa288bc5416095b5f03969f1dc38.xml#id-7ae9aa288bc5416095b5f03969f1dc38"/>
 </archimate:AssociationRelationship>

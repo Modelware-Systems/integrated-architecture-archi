@@ -1,7 +1,9 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-8da4793985ea4cb1aee0c70abc0d6680">
+    name="offered to"
+    id="id-8da4793985ea4cb1aee0c70abc0d6680"
+    directed="true">
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-980df22ebd844350bd6a1e57cbcd8972.xml#id-980df22ebd844350bd6a1e57cbcd8972"/>

@@ -4,8 +4,8 @@
     name="is a"
     id="id-f995296ffb28412f8560dec84d886e62">
   <source
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-8eff33a1610e4792b58978c18d6fd837.xml#id-8eff33a1610e4792b58978c18d6fd837"/>
+      xsi:type="archimate:Contract"
+      href="Contract_id-7233346070cb4f50a3ec049df69a2f97.xml#id-7233346070cb4f50a3ec049df69a2f97"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-fdf9833068c54acda4e12ddc87855fa7.xml#id-fdf9833068c54acda4e12ddc87855fa7"/>
