@@ -42,7 +42,7 @@
         x="84"
         y="108"
         width="1104"
-        height="152"/>
+        height="169"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c64328039ae945c6a2ffcbffd50b981f"
@@ -50,7 +50,7 @@
       <bounds
           x="182"
           y="36"
-          width="577"
+          width="155"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -175,7 +175,7 @@
     </sourceConnections>
     <bounds
         x="84"
-        y="648"
+        y="660"
         width="1104"
         height="240"/>
     <children
@@ -236,7 +236,7 @@
             href="AccessRelationship_id-afcf80d6bfae49fb8abeaee695b88f8e.xml#id-afcf80d6bfae49fb8abeaee695b88f8e"/>
       </sourceConnections>
       <bounds
-          x="548"
+          x="558"
           y="156"
           width="120"
           height="55"/>
@@ -358,7 +358,7 @@
       <bounds
           x="456"
           y="36"
-          width="324"
+          width="313"
           height="55"/>
       <archimateElement
           xsi:type="archimate:DataObject"
@@ -430,7 +430,7 @@
         x="84"
         y="276"
         width="1104"
-        height="360"/>
+        height="385"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-58b7096e072d4dc298bc791315a29a51"
