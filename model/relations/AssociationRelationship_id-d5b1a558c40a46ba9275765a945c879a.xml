@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realise"
+    id="id-d5b1a558c40a46ba9275765a945c879a"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-34bcadcd8e26431caa5a5dfce20318e3.xml#id-34bcadcd8e26431caa5a5dfce20318e3"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-a249cf5277c14fb2b516a732229fe01f.xml#id-a249cf5277c14fb2b516a732229fe01f"/>
+</archimate:AssociationRelationship>

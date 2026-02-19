@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="transformed into"
-    id="id-b177749b08d340498da76d557a92fbd8">
+    id="id-b177749b08d340498da76d557a92fbd8"
+    directed="true">
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_id-ed4ae97f3af9497bab140d7de4e6065f.xml#id-ed4ae97f3af9497bab140d7de4e6065f"/>
