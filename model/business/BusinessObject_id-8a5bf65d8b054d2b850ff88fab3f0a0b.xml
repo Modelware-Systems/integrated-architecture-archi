@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adjuster"
+    id="id-8a5bf65d8b054d2b850ff88fab3f0a0b">
+  <properties
+      key="TermId"/>
+  <properties
+      key="Business Definition"
+      value="A Claim is a request that a policyholder submits to an insurer to receive compensation for a covered loss. ​"/>
+  <properties
+      key="Synonym"/>
+  <properties
+      key="Status"
+      value="Approved"/>
+  <properties
+      key="Version"
+      value="1.0"/>
+  <properties
+      key="Approval Date"/>
+  <properties
+      key="Approved By"/>
+</archimate:BusinessObject>

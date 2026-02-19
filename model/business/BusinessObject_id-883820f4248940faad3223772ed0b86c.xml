@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Constituent Parts"
+    id="id-883820f4248940faad3223772ed0b86c">
+  <properties
+      key="Answers"
+      value="Who is involved?"/>
+</archimate:BusinessObject>

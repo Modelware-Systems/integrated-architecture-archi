@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="underwrite"
+    id="id-c97e84e786b8417e9a069ecb8045d974">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-06b7d1d6726d41e987fe2f70cf63e910.xml#id-06b7d1d6726d41e987fe2f70cf63e910"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-8eff33a1610e4792b58978c18d6fd837.xml#id-8eff33a1610e4792b58978c18d6fd837"/>
+</archimate:AssociationRelationship>
