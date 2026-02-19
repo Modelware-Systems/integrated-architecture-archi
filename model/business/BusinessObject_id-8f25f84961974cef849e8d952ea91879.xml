@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Monetary Amount (FIBO)"
+    name="Monetary Amount"
     id="id-8f25f84961974cef849e8d952ea91879"
     documentation="Represents a base business quantity.&#xA;&#xA;It is:&#xA;&#xA;Directly observed or captured&#xA;&#xA;Atomic (even if calculated)&#xA;&#xA;A property of a business object&#xA;&#xA;Typically stored as a field&#xA;&#xA;Examples:&#xA;Claim Amount&#xA;Premium Amount&#xA;Deductible Amount&#xA;Invoice Total&#xA;&#xA;These are usually attributes of something.">
   <properties

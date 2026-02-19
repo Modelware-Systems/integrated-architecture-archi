@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Functional Purpose"
+    id="id-61f8a06ce11b46849c8b2d1dd6b922b7">
+  <properties
+      key="Answers"
+      value="Why does it exist?"/>
+</archimate:BusinessObject>

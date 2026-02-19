@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conditions"
+    id="id-6a3904bcce3f451eb5f9eecc10d8986f">
+  <properties
+      key="Why?"
+      value="It limits when the term applies."/>
+</archimate:BusinessObject>
