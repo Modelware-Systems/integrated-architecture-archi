@@ -39,8 +39,8 @@
           href="CompositionRelationship_id-edaf8ea945fb4eb18a92017251ae4bd5.xml#id-edaf8ea945fb4eb18a92017251ae4bd5"/>
     </sourceConnections>
     <bounds
-        x="84"
-        y="108"
+        x="26"
+        y="96"
         width="1104"
         height="181"/>
     <children
@@ -48,7 +48,7 @@
         id="id-c64328039ae945c6a2ffcbffd50b981f"
         targetConnections="id-c472d067f7ea4b42908c4af9b54d9a63 id-026fc33ce1b94c949b3f26ee32dca0c7">
       <bounds
-          x="528"
+          x="660"
           y="36"
           width="167"
           height="55"/>
@@ -174,8 +174,8 @@
           href="AccessRelationship_id-248ba206709b467d868e5391b2f756fb.xml#id-248ba206709b467d868e5391b2f756fb"/>
     </sourceConnections>
     <bounds
-        x="84"
-        y="660"
+        x="26"
+        y="648"
         width="1104"
         height="240"/>
     <children
@@ -298,9 +298,9 @@
             href="ServingRelationship_id-9c6ffd213ec7464580e823963ed76407.xml#id-9c6ffd213ec7464580e823963ed76407"/>
       </sourceConnections>
       <bounds
-          x="734"
+          x="708"
           y="156"
-          width="120"
+          width="145"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationProcess"
@@ -427,8 +427,8 @@
           href="CompositionRelationship_id-f10e2171a84e4559bc9da92200dc8fdb.xml#id-f10e2171a84e4559bc9da92200dc8fdb"/>
     </sourceConnections>
     <bounds
-        x="84"
-        y="288"
+        x="26"
+        y="276"
         width="1104"
         height="373"/>
     <children
@@ -464,9 +464,9 @@
             href="AssociationRelationship_id-d5b1a558c40a46ba9275765a945c879a.xml#id-d5b1a558c40a46ba9275765a945c879a"/>
       </sourceConnections>
       <bounds
-          x="168"
+          x="660"
           y="48"
-          width="888"
+          width="408"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -486,9 +486,9 @@
             href="AssociationRelationship_id-601b58b12c3a47ce8acac652b0ffecfa.xml#id-601b58b12c3a47ce8acac652b0ffecfa"/>
       </sourceConnections>
       <bounds
-          x="168"
+          x="660"
           y="156"
-          width="888"
+          width="408"
           height="55"/>
       <archimateElement
           xsi:type="archimate:DataObject"
@@ -508,9 +508,9 @@
             href="AssociationRelationship_id-67cdcdc8bb384e649206499a4a2f39ec.xml#id-67cdcdc8bb384e649206499a4a2f39ec"/>
       </sourceConnections>
       <bounds
-          x="168"
+          x="660"
           y="264"
-          width="888"
+          width="408"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Artifact"
