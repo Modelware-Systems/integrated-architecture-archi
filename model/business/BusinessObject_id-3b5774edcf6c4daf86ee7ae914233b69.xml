@@ -17,7 +17,9 @@
       key="Version"
       value="1.0"/>
   <properties
-      key="Approval Date"/>
+      key="Approval Date"
+      value="1 February 2026"/>
   <properties
-      key="Approved By"/>
+      key="Approved By"
+      value="Howard Diesel"/>
 </archimate:BusinessObject>

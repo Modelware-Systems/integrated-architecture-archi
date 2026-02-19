@@ -5,7 +5,8 @@
   <properties
       key="TermId"/>
   <properties
-      key="Business Definition"/>
+      key="Business Definition"
+      value="The total monetary value submitted by a policyholder in a claim before adjustments or deductions."/>
   <properties
       key="Synonym"/>
   <properties

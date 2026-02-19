@@ -57,7 +57,7 @@
     </sourceConnections>
     <bounds
         x="26"
-        y="132"
+        y="96"
         width="1475"
         height="236"/>
     <children
@@ -176,7 +176,7 @@
     </sourceConnections>
     <bounds
         x="26"
-        y="540"
+        y="504"
         width="1475"
         height="140"/>
     <children
@@ -392,7 +392,7 @@
     </sourceConnections>
     <bounds
         x="26"
-        y="384"
+        y="348"
         width="1475"
         height="140"/>
     <children

@@ -20,10 +20,4 @@
       key="Approval Date"/>
   <properties
       key="Approved By"/>
-  <properties
-      key="Format Type"/>
-  <properties
-      key="Source System"/>
-  <properties
-      key="Valid Values"/>
 </archimate:BusinessObject>

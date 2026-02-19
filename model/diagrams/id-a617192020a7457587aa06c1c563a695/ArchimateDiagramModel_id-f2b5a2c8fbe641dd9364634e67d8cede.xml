@@ -39,7 +39,7 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="120"
+        y="84"
         width="1105"
         height="140"/>
     <children
@@ -56,9 +56,9 @@
             href="AssociationRelationship_id-cd25d6e964564777aba90afd6901ce5b.xml#id-cd25d6e964564777aba90afd6901ce5b"/>
       </sourceConnections>
       <bounds
-          x="348"
+          x="336"
           y="48"
-          width="289"
+          width="301"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -132,7 +132,7 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="432"
+        y="396"
         width="1105"
         height="140"/>
     <children
@@ -149,7 +149,7 @@
             href="ServingRelationship_id-7a7de99b82b4442d904dfe76f0f2de90.xml#id-7a7de99b82b4442d904dfe76f0f2de90"/>
       </sourceConnections>
       <bounds
-          x="132"
+          x="156"
           y="48"
           width="120"
           height="55"/>
@@ -319,7 +319,7 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="276"
+        y="240"
         width="1105"
         height="140"/>
     <children

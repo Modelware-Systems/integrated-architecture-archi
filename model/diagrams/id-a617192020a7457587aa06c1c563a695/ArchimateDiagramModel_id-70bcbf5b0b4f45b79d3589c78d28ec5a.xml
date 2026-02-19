@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Industry comparisions"
+    id="id-70bcbf5b0b4f45b79d3589c78d28ec5a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f6711202416b40dca5de8c071a92c85a">
+    <bounds
+        x="112"
+        y="142"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-8f25f84961974cef849e8d952ea91879.xml#id-8f25f84961974cef849e8d952ea91879"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4011d10bb2b4457c8618ad2c2f6a8c30">
+    <bounds
+        x="112"
+        y="216"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-9b4ffae082ae4b8fa764438932980ea4.xml#id-9b4ffae082ae4b8fa764438932980ea4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-383d6c5ca5e6443b88e99ba1ed4a142b">
+    <bounds
+        x="417"
+        y="160"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-6614e65aeeda430593e9864cacb3693c.xml#id-6614e65aeeda430593e9864cacb3693c"/>
+  </children>
+</archimate:ArchimateDiagramModel>

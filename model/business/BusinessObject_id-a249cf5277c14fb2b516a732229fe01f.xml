@@ -1,4 +1,20 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Net Claims Liability"
-    id="id-a249cf5277c14fb2b516a732229fe01f"/>
+    id="id-a249cf5277c14fb2b516a732229fe01f">
+  <properties
+      key="TermId"/>
+  <properties
+      key="Business Definition"
+      value="The calculated financial liability of the insurer after applying deductions, recoveries, and adjustments to total claim values."/>
+  <properties
+      key="Synonym"/>
+  <properties
+      key="Status"/>
+  <properties
+      key="Version"/>
+  <properties
+      key="Approval Date"/>
+  <properties
+      key="Approved By"/>
+</archimate:BusinessObject>

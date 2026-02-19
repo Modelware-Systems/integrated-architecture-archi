@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="issue"
+    name="underwrite"
     id="id-c97e84e786b8417e9a069ecb8045d974">
   <source
       xsi:type="archimate:BusinessObject"
