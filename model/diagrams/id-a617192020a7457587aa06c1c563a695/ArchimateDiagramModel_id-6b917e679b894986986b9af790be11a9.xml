@@ -10,7 +10,7 @@
       content="Insurer Subject Area">
     <bounds
         x="730"
-        y="156"
+        y="84"
         width="228"
         height="433"/>
   </children>
@@ -21,7 +21,7 @@
       content="Policy Subject Area">
     <bounds
         x="503"
-        y="156"
+        y="84"
         width="228"
         height="433"/>
   </children>
@@ -32,7 +32,7 @@
       content="Customer Subject Area">
     <bounds
         x="49"
-        y="156"
+        y="84"
         width="228"
         height="433"/>
   </children>
@@ -41,7 +41,7 @@
       id="id-b4c570b87f844dabae2ed811988992b2"
       font="1|Lucida Grande|18.0|1|COCOA|1|LucidaGrande-Bold"
       textAlignment="1"
-      content="Conceptual Data Model">
+      content="Subject Area Model">
     <bounds
         x="49"
         y="24"
@@ -55,7 +55,7 @@
       content="Claim Subject Area">
     <bounds
         x="276"
-        y="156"
+        y="84"
         width="228"
         height="433"/>
   </children>
@@ -79,7 +79,7 @@
     </sourceConnections>
     <bounds
         x="550"
-        y="268"
+        y="196"
         width="120"
         height="55"/>
     <archimateElement
@@ -101,7 +101,7 @@
     </sourceConnections>
     <bounds
         x="102"
-        y="264"
+        y="192"
         width="120"
         height="55"/>
     <archimateElement
@@ -114,7 +114,7 @@
       targetConnections="id-263de1bbaf08493aa142e3ce393f7e88">
     <bounds
         x="550"
-        y="418"
+        y="346"
         width="120"
         height="55"/>
     <archimateElement
@@ -131,9 +131,10 @@
         source="id-d4f6991021f04201968f8ddc75868259"
         target="id-2e6f41d09cd647d3ba0dc6eb8ce49411">
       <bendpoints
-          startX="-216"
-          startY="-2"
-          endY="98"/>
+          startX="-233"
+          startY="-6"
+          endX="-5"
+          endY="94"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-3c6926f1f9814f55bbbb2b32014203f4.xml#id-3c6926f1f9814f55bbbb2b32014203f4"/>
@@ -154,7 +155,7 @@
     </sourceConnections>
     <bounds
         x="330"
-        y="364"
+        y="292"
         width="120"
         height="55"/>
     <archimateElement
@@ -180,7 +181,7 @@
     </sourceConnections>
     <bounds
         x="784"
-        y="480"
+        y="408"
         width="120"
         height="55"/>
     <archimateElement
@@ -201,7 +202,7 @@
     </sourceConnections>
     <bounds
         x="784"
-        y="255"
+        y="183"
         width="120"
         height="55"/>
     <archimateElement
