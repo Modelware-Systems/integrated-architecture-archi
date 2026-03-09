@@ -4,9 +4,9 @@
     name="is constrained by"
     id="id-114a35869a4e441bb70e87ebc7fe4587">
   <source
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-c99407ca2fbb4e578653ae209bafeb7c.xml#id-c99407ca2fbb4e578653ae209bafeb7c"/>
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-d692dded5a89470db63f0e7b697155e8.xml#id-d692dded5a89470db63f0e7b697155e8"/>
   <target
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-e661a038b54a4a0f8c0b30285a7cf85a.xml#id-e661a038b54a4a0f8c0b30285a7cf85a"/>
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-1a3da04741f3426fad12f1f3fdc72104.xml#id-1a3da04741f3426fad12f1f3fdc72104"/>
 </archimate:AssociationRelationship>

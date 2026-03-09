@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3. Business Glossary Governance View"
+    name="1.2. Business Glossary Governance View"
     id="id-4a1afa5d391643b7a0dbd5a39f18ee14">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -187,8 +187,7 @@
         height="1524"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-c40cb73aa8c149c8a7281d5b1e67ebd3"
-        targetConnections="id-93aba63caabb46ebacc798bf99b30456">
+        id="id-c40cb73aa8c149c8a7281d5b1e67ebd3">
       <bounds
           x="60"
           y="24"
@@ -215,15 +214,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-216511f5e09b438ea826fe4ba1ab5756"
         targetConnections="id-c33a8965f1df49d69609606e9ddd6790 id-a269417a7d9b4027b6e57cee3e2af47f id-83dbe89fe23d4e09a4e04328fd0ffe79">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-93aba63caabb46ebacc798bf99b30456"
-          source="id-216511f5e09b438ea826fe4ba1ab5756"
-          target="id-c40cb73aa8c149c8a7281d5b1e67ebd3">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-b849b52fc64f4207ba095f750efe82e9.xml#id-b849b52fc64f4207ba095f750efe82e9"/>
-      </sourceConnections>
       <bounds
           x="60"
           y="420"
