@@ -12,7 +12,7 @@
     <bounds
         x="12"
         y="12"
-        width="235"
+        width="673"
         height="44"/>
   </children>
   <children
@@ -30,15 +30,15 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="84"
-        width="400"
+        y="72"
+        width="649"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4fc95793c88a4bb0b1384fba22407410"
         targetConnections="id-40aef635d1f846dbba57a4895722189d">
       <bounds
-          x="36"
+          x="24"
           y="48"
           width="120"
           height="55"/>
@@ -49,6 +49,20 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-d692dded5a89470db63f0e7b697155e8.xml#id-d692dded5a89470db63f0e7b697155e8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c21ceb5501dd4bc2bc908771faae3dec"
+      name="Legend"
+      textAlignment="1">
+    <features
+        name="legend"
+        value="display=15,rows=15,offset=0,color=1,sort=1"/>
+    <bounds
+        x="684"
+        y="12"
+        width="210"
+        height="85"/>
   </children>
   <properties
       key="TermId"/>

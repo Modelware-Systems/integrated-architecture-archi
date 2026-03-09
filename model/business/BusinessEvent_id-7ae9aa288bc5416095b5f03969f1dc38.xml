@@ -6,16 +6,16 @@
       key="TermId"
       value="CLM-001​"/>
   <properties
-      key="Class (Genus)"
+      key="class(Genus)"
       value="Request"/>
   <properties
-      key="Differentiator - Functional"
+      key="differentiatorFunctional"
       value="Compensation"/>
   <properties
-      key="Differentiator - Constituants"
+      key="differentiatorConstituants"
       value="Policy Holder; Insurer"/>
   <properties
-      key="Differentiator -Conditions"
+      key="differentiatorConditions"
       value="Covered Loss"/>
   <properties
       key="Differentiator - Scope"
@@ -27,7 +27,7 @@
       key="Synonym"
       value="​"/>
   <properties
-      key="Business Context"
+      key="businessContext"
       value="Claims"/>
   <properties
       key="Valid Values"/>
