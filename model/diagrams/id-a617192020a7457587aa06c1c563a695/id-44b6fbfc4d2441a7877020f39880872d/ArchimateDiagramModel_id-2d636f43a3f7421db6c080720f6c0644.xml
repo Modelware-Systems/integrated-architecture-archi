@@ -1,0 +1,77 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata Attribute Card"
+    id="id-2d636f43a3f7421db6c080720f6c0644">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4ad8024154c64faca853849abe11fcf4"
+      font="1|Lucida Grande|18.0|1|COCOA|1|LucidaGrande-Bold"
+      textAlignment="1"
+      content="Metadata Attribute Card">
+    <bounds
+        x="12"
+        y="12"
+        width="235"
+        height="44"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1f157bc34328452e92ddfa3bb0e26cef"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-40aef635d1f846dbba57a4895722189d"
+        source="id-1f157bc34328452e92ddfa3bb0e26cef"
+        target="id-4fc95793c88a4bb0b1384fba22407410">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-be59d9c7ea1c4687b1ab18c422046c82.xml#id-be59d9c7ea1c4687b1ab18c422046c82"/>
+    </sourceConnections>
+    <bounds
+        x="12"
+        y="84"
+        width="400"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-4fc95793c88a4bb0b1384fba22407410"
+        targetConnections="id-40aef635d1f846dbba57a4895722189d">
+      <bounds
+          x="36"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-d5dd19fcb06e4c18943bea0a7411d61f.xml#id-d5dd19fcb06e4c18943bea0a7411d61f"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-d692dded5a89470db63f0e7b697155e8.xml#id-d692dded5a89470db63f0e7b697155e8"/>
+  </children>
+  <properties
+      key="TermId"/>
+  <properties
+      key="Valid Values"/>
+  <properties
+      key="Data Type"/>
+  <properties
+      key="Format"/>
+  <properties
+      key="Data Steward"/>
+  <properties
+      key="Business Rule"/>
+  <properties
+      key="Source System Id"/>
+  <properties
+      key="Data Lineage Summary"/>
+  <properties
+      key="Related Terms"/>
+  <properties
+      key="Usage Notes"/>
+  <properties
+      key="Term Name"/>
+  <properties
+      key="Term Description"/>
+</archimate:ArchimateDiagramModel>

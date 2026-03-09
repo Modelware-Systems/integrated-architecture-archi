@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="6. Structured Definition Pattern Example"
+    name="2.2 Structured Definition Pattern Example"
     id="id-d4663f3776234eac89b4d9224b3bcb26">
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -124,8 +124,8 @@
               endX="-132"
               endY="154"/>
           <archimateRelationship
-              xsi:type="archimate:AssociationRelationship"
-              href="AssociationRelationship_id-438f332d07514c66987d60376ae299b0.xml#id-438f332d07514c66987d60376ae299b0"/>
+              xsi:type="archimate:TriggeringRelationship"
+              href="TriggeringRelationship_id-f5dbd1fb92414b85af521a745ba1cb13.xml#id-f5dbd1fb92414b85af521a745ba1cb13"/>
         </sourceConnections>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
@@ -142,8 +142,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:BusinessObject"
-            href="BusinessObject_id-913cf5f1d23b436583a4d24cd9cfa21d.xml#id-913cf5f1d23b436583a4d24cd9cfa21d"/>
+            xsi:type="archimate:BusinessRole"
+            href="BusinessRole_id-7c84639b374e4e7698eec84027e4a293.xml#id-7c84639b374e4e7698eec84027e4a293"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -176,7 +176,7 @@
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessRole"
-            href="BusinessRole_id-c7f00d725e7f4abebd9332fee50c033b.xml#id-c7f00d725e7f4abebd9332fee50c033b"/>
+            href="BusinessRole_id-308bf72f26174bfc9f6b845635be9f83.xml#id-308bf72f26174bfc9f6b845635be9f83"/>
       </children>
       <archimateElement
           xsi:type="archimate:Grouping"

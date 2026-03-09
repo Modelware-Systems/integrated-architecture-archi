@@ -9,13 +9,17 @@
       key="Class (Genus)"
       value="Request"/>
   <properties
-      key="Differentiator - Functional"/>
+      key="Differentiator - Functional"
+      value="Compensation"/>
   <properties
-      key="Differentiator - Constituants"/>
+      key="Differentiator - Constituants"
+      value="Policy Holder; Insurer"/>
   <properties
-      key="Differentiator -Conditions"/>
+      key="Differentiator -Conditions"
+      value="Covered Loss"/>
   <properties
-      key="Differentiator - Scope"/>
+      key="Differentiator - Scope"
+      value="Policy"/>
   <properties
       key="Business Definition"
       value="A Claim is a request that a policyholder submits to an insurer to receive compensation for a covered loss. ​"/>
