@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fraud Management"
     id="id-974e2f404b524365927fb8bc707989cf"
-    documentation="The ability to detect, investigate, and prevent fraudulent activities across policy underwriting and claims processes.&#xA;"/>
+    documentation="The ability to detect, investigate, and prevent fraudulent activities across policy underwriting and claims processes.&#xA;">
+  <properties
+      key="maturity"
+      value="1 - Underdeveloped"/>
+</archimate:Capability>

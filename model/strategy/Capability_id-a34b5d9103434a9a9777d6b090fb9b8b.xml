@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data &amp; Analytics"
     id="id-a34b5d9103434a9a9777d6b090fb9b8b"
-    documentation="The ability to manage data assets, generate insights, and enable data-driven decision making across the enterprise.&#xA;"/>
+    documentation="The ability to manage data assets, generate insights, and enable data-driven decision making across the enterprise.&#xA;">
+  <properties
+      key="maturity"
+      value="2 - Initial"/>
+</archimate:Capability>
