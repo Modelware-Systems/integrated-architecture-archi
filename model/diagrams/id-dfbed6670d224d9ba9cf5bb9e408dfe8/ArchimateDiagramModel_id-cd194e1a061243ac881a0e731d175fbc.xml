@@ -12,7 +12,7 @@
     <bounds
         x="12"
         y="12"
-        width="385"
+        width="1117"
         height="36"/>
   </children>
   <children
@@ -569,61 +569,17 @@
         href="Grouping_id-278c766bb91143f5938a275f496cc212.xml#id-278c766bb91143f5938a275f496cc212"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="id-e3a18597b97646f1920f6034b795869b"
-      name="Concepts used"
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d85a10f0a1394550afb708ef292ff65b"
+      name="Legend"
       textAlignment="1">
+    <features
+        name="legend"
+        value="display=15,rows=15,offset=0,color=1,sort=1"/>
     <bounds
-        x="1140"
-        y="72"
+        x="1128"
+        y="12"
         width="169"
-        height="289"/>
-    <children
-        xsi:type="archimate:DiagramModelGroup"
-        id="id-cc68af3fc455404d96a3f909f57bb117"
-        name="Strategy"
-        textAlignment="1"
-        fillColor="#feffff"
-        borderType="1">
-      <bounds
-          x="12"
-          y="36"
-          width="145"
-          height="229"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-3309986907e04978940683011c571514">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-534ebacad40342c18a8f8fc035a40ecf"
-            source="id-3309986907e04978940683011c571514"
-            target="id-092e10856f4845a795d8db6b88c9856f">
-          <archimateRelationship
-              xsi:type="archimate:ServingRelationship"
-              href="ServingRelationship_id-b7e7ce76b1764fae9b3674e679ac269c.xml#id-b7e7ce76b1764fae9b3674e679ac269c"/>
-        </sourceConnections>
-        <bounds
-            x="12"
-            y="144"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:Capability"
-            href="Capability_id-da3761a914f4446480fcbf41adeb38c5.xml#id-da3761a914f4446480fcbf41adeb38c5"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-092e10856f4845a795d8db6b88c9856f"
-          targetConnections="id-534ebacad40342c18a8f8fc035a40ecf">
-        <bounds
-            x="12"
-            y="36"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:ValueStream"
-            href="ValueStream_id-777a925b7d874fdf8dbceaaa004e2318.xml#id-777a925b7d874fdf8dbceaaa004e2318"/>
-      </children>
-    </children>
+        height="133"/>
   </children>
 </archimate:ArchimateDiagramModel>

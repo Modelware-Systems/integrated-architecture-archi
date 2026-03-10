@@ -1,0 +1,32 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="11 Org Structure"
+    id="id-c5ea1f24e9a3443dbc41c662af005b06">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-27fedb5b1c7c452faf488b43e78632a8"
+      font="1|Lucida Grande|18.0|1|COCOA|1|LucidaGrande-Bold"
+      textAlignment="1"
+      content="Org Structure&#xA;&#xA;&#xA;&#xA;">
+    <bounds
+        x="12"
+        y="12"
+        width="1249"
+        height="36"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-fbc9ef152d934cf3918b660f2dc30094"
+      name="Legend"
+      textAlignment="1">
+    <features
+        name="legend"
+        value="display=15,rows=15,offset=0,color=1,sort=1"/>
+    <bounds
+        x="1260"
+        y="12"
+        width="210"
+        height="168"/>
+  </children>
+</archimate:ArchimateDiagramModel>
