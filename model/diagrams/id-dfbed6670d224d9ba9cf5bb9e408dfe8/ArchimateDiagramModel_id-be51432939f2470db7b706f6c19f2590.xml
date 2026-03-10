@@ -12,7 +12,7 @@
     <bounds
         x="12"
         y="12"
-        width="865"
+        width="1045"
         height="36"/>
   </children>
   <children
@@ -24,7 +24,7 @@
         name="legend"
         value="display=15,rows=15,offset=0,color=1,sort=1"/>
     <bounds
-        x="876"
+        x="1068"
         y="12"
         width="169"
         height="157"/>
@@ -88,11 +88,20 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-705d07290bc9470a9bf9d31c1897357e.xml#id-705d07290bc9470a9bf9d31c1897357e"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-981085d3905440d99c040d18a28a4f4d"
+        source="id-30d7f829b466456f974f601cbcbe91fd"
+        target="id-a469308bf56c40c3bf6a59f9261a538c">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-144021be1f2f4090ae63736476e0145a.xml#id-144021be1f2f4090ae63736476e0145a"/>
+    </sourceConnections>
     <bounds
         x="12"
         y="312"
         width="841"
-        height="301"/>
+        height="493"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1c00dcebda19492fb17d1dcd70848d0c"
@@ -105,22 +114,22 @@
           x="12"
           y="79"
           width="121"
-          height="55"/>
+          height="198"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-5b3c8c101bda4d5eb4de02e9e664a498"
+          targetConnections="id-03c10162b2834485b37e59e0884e4f3f"
+          textAlignment="1"
+          content="Digital portal &amp; Mobile App for instant intake.">
+        <bounds
+            x="12"
+            y="36"
+            width="97"
+            height="109"/>
+      </children>
       <archimateElement
           xsi:type="archimate:Requirement"
           href="Requirement_id-c55d56753e73459692581c0f26701879.xml#id-c55d56753e73459692581c0f26701879"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-5b3c8c101bda4d5eb4de02e9e664a498"
-        targetConnections="id-03c10162b2834485b37e59e0884e4f3f"
-        textAlignment="1"
-        content="Digital portal &amp; Mobile&#xA;App for instant intake.">
-      <bounds
-          x="12"
-          y="151"
-          width="121"
-          height="109"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -144,10 +153,10 @@
         id="id-f6bc929d9989493994a1925f4edf47d0"
         targetConnections="id-a986bf91ce65426b86f349a2a4a411eb"
         textAlignment="1"
-        content="Smart routing based on&#xA;adjuster skill &amp; load.">
+        content="Smart routing based on adjuster skill &amp; load.">
       <bounds
           x="144"
-          y="151"
+          y="348"
           width="121"
           height="109"/>
     </children>
@@ -168,14 +177,14 @@
         xsi:type="archimate:DiagramModelNote"
         id="id-6df3735617db472692bb1b7bf7a34952"
         textAlignment="1"
-        content="Al document pre-fill &amp;&#xA;unified data view.">
+        content="Al document pre-fill &amp; unified data view.">
       <sourceConnections
           id="id-714190189d5740c7971b8f8cacfca81d"
           source="id-6df3735617db472692bb1b7bf7a34952"
           target="id-653def828b85403d90a6fcbc3b77015f"/>
       <bounds
           x="276"
-          y="151"
+          y="348"
           width="121"
           height="109"/>
     </children>
@@ -201,10 +210,10 @@
         id="id-0ab50aa291494f6cbc46e3bd0a5ac667"
         targetConnections="id-e724a4dfba6842cb8fb2358e0f0baec0"
         textAlignment="1"
-        content="Real-time fraud scoring&#xA;to triage risks">
+        content="Real-time fraud scoring to triage risks">
       <bounds
           x="408"
-          y="151"
+          y="348"
           width="121"
           height="109"/>
     </children>
@@ -233,7 +242,7 @@
         content="Straight-Through Processing for low risk claims.">
       <bounds
           x="540"
-          y="151"
+          y="348"
           width="121"
           height="109"/>
     </children>
@@ -262,9 +271,22 @@
         content="Auto-SMS/Email status notifications.">
       <bounds
           x="672"
-          y="151"
+          y="348"
           width="121"
           height="109"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-a469308bf56c40c3bf6a59f9261a538c"
+        targetConnections="id-981085d3905440d99c040d18a28a4f4d">
+      <bounds
+          x="12"
+          y="312"
+          width="121"
+          height="157"/>
+      <archimateElement
+          xsi:type="archimate:CourseOfAction"
+          href="CourseOfAction_id-fd904e3d66464077b6e8e640fbeb0e30.xml#id-fd904e3d66464077b6e8e640fbeb0e30"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -277,7 +299,7 @@
       content="Future state benefits&#xA;&#xA;By shifting from manual to digital-first intake and leveraging AI for decision support, the future state dramatically reduces cycle time while improving fraud detection accuracy. &#xA;">
     <bounds
         x="12"
-        y="636"
+        y="828"
         width="841"
         height="80"/>
   </children>
@@ -360,7 +382,7 @@
     <bounds
         x="12"
         y="180"
-        width="841"
+        width="1021"
         height="121"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -379,7 +401,7 @@
       <bounds
           x="408"
           y="36"
-          width="153"
+          width="205"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
@@ -400,9 +422,9 @@
             href="RealizationRelationship_id-209a4dbb2aee43518d4442df9c2c1337.xml#id-209a4dbb2aee43518d4442df9c2c1337"/>
       </sourceConnections>
       <bounds
-          x="540"
+          x="648"
           y="36"
-          width="153"
+          width="205"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
@@ -425,7 +447,7 @@
       <bounds
           x="144"
           y="36"
-          width="153"
+          width="205"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
@@ -448,7 +470,7 @@
       <bounds
           x="276"
           y="36"
-          width="153"
+          width="205"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
@@ -471,7 +493,7 @@
       <bounds
           x="12"
           y="36"
-          width="153"
+          width="205"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
@@ -492,9 +514,9 @@
             href="RealizationRelationship_id-5852835938b54362948b8036f1d561d4.xml#id-5852835938b54362948b8036f1d561d4"/>
       </sourceConnections>
       <bounds
-          x="672"
+          x="840"
           y="36"
-          width="153"
+          width="205"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ValueStream"

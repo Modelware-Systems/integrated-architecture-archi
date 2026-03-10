@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="cause creation of"
+    id="id-ec2c22a37d864e428555cb28cde3f198">
+  <source
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-fd904e3d66464077b6e8e640fbeb0e30.xml#id-fd904e3d66464077b6e8e640fbeb0e30"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-ead8b424313f4ff8b2f6007badb7649f.xml#id-ead8b424313f4ff8b2f6007badb7649f"/>
+</archimate:TriggeringRelationship>

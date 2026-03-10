@@ -43,6 +43,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c03e084c454c43f7915646fe7035db12"
+        lineColor="#ff2600"
         source="id-785dc1eec74f490396e044e00312989c"
         target="id-d6812b2c7e914bd78532d4ae74d5f022">
       <archimateRelationship
@@ -73,6 +74,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c9b87fff7dca441283df343dc8f52756"
+        lineColor="#ff2600"
         source="id-793c56d0a7e041099eecddc89c857987"
         target="id-17f18f0e44994140861c9f16582bb491">
       <archimateRelationship
@@ -103,6 +105,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-42fcad86fd9f464f8420d0d92164f0ad"
+        lineColor="#ff2600"
         source="id-21e349ef6aae4ccd86917eee988eb8aa"
         target="id-2c54d9b71fa642e3ac5430fe9279cf4e">
       <archimateRelationship
@@ -133,6 +136,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3e29763e53ed4ad9b452dd33bbef80d0"
+        lineColor="#ff2600"
         source="id-a705194d00bf44ef9340c74261ad0f88"
         target="id-e536568777d74e00a0c7ec21a981c0ae">
       <archimateRelationship
