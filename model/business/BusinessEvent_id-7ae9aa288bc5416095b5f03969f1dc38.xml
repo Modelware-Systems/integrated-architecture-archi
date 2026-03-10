@@ -1,0 +1,62 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Claim"
+    id="id-7ae9aa288bc5416095b5f03969f1dc38">
+  <properties
+      key="TermId"
+      value="CLM-001​"/>
+  <properties
+      key="class(Genus)"
+      value="Request"/>
+  <properties
+      key="differentiatorFunctional"
+      value="Compensation"/>
+  <properties
+      key="differentiatorConstituants"
+      value="Policy Holder; Insurer"/>
+  <properties
+      key="differentiatorConditions"
+      value="Covered Loss"/>
+  <properties
+      key="Differentiator - Scope"
+      value="Policy"/>
+  <properties
+      key="Business Definition"
+      value="A Claim is a request that a policyholder submits to an insurer to receive compensation for a covered loss. ​"/>
+  <properties
+      key="Synonym"
+      value="​"/>
+  <properties
+      key="businessContext"
+      value="Claims"/>
+  <properties
+      key="Valid Values"/>
+  <properties
+      key="Steward / Owner"/>
+  <properties
+      key="Status"
+      value="Approved"/>
+  <properties
+      key="Domain"/>
+  <properties
+      key="Version"
+      value="1.0"/>
+  <properties
+      key="Valid Values"/>
+  <properties
+      key="Source System Title"/>
+  <properties
+      key="Source System Description"/>
+  <properties
+      key="Creator / Steward"/>
+  <properties
+      key="Date Created"/>
+  <properties
+      key="Approval Date"
+      value="1 February 2026"/>
+  <properties
+      key="Approved By"
+      value="Howard Diesel"/>
+  <properties
+      key="Change History"/>
+</archimate:BusinessEvent>

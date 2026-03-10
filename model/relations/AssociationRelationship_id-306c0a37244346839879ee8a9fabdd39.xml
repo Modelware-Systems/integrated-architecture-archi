@@ -4,8 +4,8 @@
     name="Synonym"
     id="id-306c0a37244346839879ee8a9fabdd39">
   <source
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-06b7d1d6726d41e987fe2f70cf63e910.xml#id-06b7d1d6726d41e987fe2f70cf63e910"/>
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-308bf72f26174bfc9f6b845635be9f83.xml#id-308bf72f26174bfc9f6b845635be9f83"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-68d1be845787406c960ea8794834e8da.xml#id-68d1be845787406c960ea8794834e8da"/>

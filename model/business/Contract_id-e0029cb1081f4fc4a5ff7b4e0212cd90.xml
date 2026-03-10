@@ -1,0 +1,21 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Coverage"
+    id="id-e0029cb1081f4fc4a5ff7b4e0212cd90">
+  <properties
+      key="TermId"
+      value="COV-001"/>
+  <properties
+      key="Business Definition"
+      value="Coverage is the protection an insurance policy provides against specified risks or losses."/>
+  <properties
+      key="Synonym"/>
+  <properties
+      key="Status"/>
+  <properties
+      key="Version"/>
+  <properties
+      key="Approval Date"/>
+  <properties
+      key="Approved By"/>
+</archimate:Contract>

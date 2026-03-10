@@ -1,0 +1,23 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy"
+    id="id-7233346070cb4f50a3ec049df69a2f97">
+  <properties
+      key="TermId"
+      value="POL-001​"/>
+  <properties
+      key="Business Definition"
+      value="A Policy is a contract between an insurer and a customer that outlines coverage terms and premium. "/>
+  <properties
+      key="Synonym"/>
+  <properties
+      key="Version"
+      value="1.0"/>
+  <properties
+      key="Status"
+      value="Approved"/>
+  <properties
+      key="Approval Date"/>
+  <properties
+      key="Approved By"/>
+</archimate:Contract>

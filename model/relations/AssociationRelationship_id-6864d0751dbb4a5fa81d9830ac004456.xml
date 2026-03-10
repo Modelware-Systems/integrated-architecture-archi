@@ -4,8 +4,8 @@
     name="result in"
     id="id-6864d0751dbb4a5fa81d9830ac004456">
   <source
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-3b5774edcf6c4daf86ee7ae914233b69.xml#id-3b5774edcf6c4daf86ee7ae914233b69"/>
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-7ae9aa288bc5416095b5f03969f1dc38.xml#id-7ae9aa288bc5416095b5f03969f1dc38"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-7b29b1c723da41aa925163bdf212a9a9.xml#id-7b29b1c723da41aa925163bdf212a9a9"/>
