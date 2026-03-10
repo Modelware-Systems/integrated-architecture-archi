@@ -1,7 +1,7 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="specialise"
+    name="specialises"
     id="id-c247c4fde1a04ba7b230dadc8feb7f2e">
   <source
       xsi:type="archimate:Goal"

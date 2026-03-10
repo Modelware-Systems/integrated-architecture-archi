@@ -1,11 +1,12 @@
-<archimate:ServingRelationship
+<archimate:InfluenceRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-5c2c3a43f17a46cda84f7c045797df65">
+    name="(-)"
+    id="id-6538100827834c788fd7509738c92e39">
   <source
       xsi:type="archimate:Capability"
       href="Capability_id-974e2f404b524365927fb8bc707989cf.xml#id-974e2f404b524365927fb8bc707989cf"/>
   <target
-      xsi:type="archimate:ValueStream"
-      href="ValueStream_id-9d0a351d5f874c19bc872f2f0c8b3238.xml#id-9d0a351d5f874c19bc872f2f0c8b3238"/>
-</archimate:ServingRelationship>
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-2767eb7789f04b65944e887969ed6354.xml#id-2767eb7789f04b65944e887969ed6354"/>
+</archimate:InfluenceRelationship>
