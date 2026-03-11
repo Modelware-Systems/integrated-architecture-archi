@@ -1,7 +1,7 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is the"
+    name="is a"
     id="id-716dfaa05fd748118d4bd9eb7238c456">
   <source
       xsi:type="archimate:Grouping"
