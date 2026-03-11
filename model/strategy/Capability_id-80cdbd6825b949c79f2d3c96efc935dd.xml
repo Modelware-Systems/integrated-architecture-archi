@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Customer Service"
     id="id-80cdbd6825b949c79f2d3c96efc935dd"
-    documentation="The ability to support customer inquiries, manage relationships, and ensure satisfaction across touchpoints.&#xA;"/>
+    documentation="The ability to support customer inquiries, manage relationships, and ensure satisfaction across touchpoints.&#xA;">
+  <properties
+      key="maturity"
+      value="3 - Managed"/>
+</archimate:Capability>

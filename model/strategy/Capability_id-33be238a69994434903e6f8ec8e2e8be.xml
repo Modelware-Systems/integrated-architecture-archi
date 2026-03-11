@@ -2,4 +2,10 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sales &amp; Distribution"
     id="id-33be238a69994434903e6f8ec8e2e8be"
-    documentation="The ability to market products, manage channels (agents, brokers, digital), and acquire new business.&#xA;"/>
+    documentation="The ability to market products, manage channels (agents, brokers, digital), and acquire new business.&#xA;">
+  <properties
+      key="maturity"
+      value="3 - Managed"/>
+  <properties
+      key="maturity"/>
+</archimate:Capability>

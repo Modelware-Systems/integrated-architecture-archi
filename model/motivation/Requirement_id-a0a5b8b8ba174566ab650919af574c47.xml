@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analytics"
+    id="id-a0a5b8b8ba174566ab650919af574c47"
+    documentation="Real-time fraud scoring to triage risks."/>
