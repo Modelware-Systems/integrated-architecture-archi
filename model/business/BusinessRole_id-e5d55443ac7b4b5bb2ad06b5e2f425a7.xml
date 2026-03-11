@@ -1,8 +1,8 @@
-<archimate:Grouping
+<archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="WHO"
-    id="id-6de484037e71483fb94ad2bbe39b0f1d">
+    name="Constituent Parts"
+    id="id-e5d55443ac7b4b5bb2ad06b5e2f425a7">
   <properties
       key="Answers"
       value="Who is involved?"/>
-</archimate:Grouping>
+</archimate:BusinessRole>
