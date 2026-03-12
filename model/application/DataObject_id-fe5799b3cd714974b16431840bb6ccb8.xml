@@ -1,0 +1,23 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="partyId (PK)"
+    id="id-fe5799b3cd714974b16431840bb6ccb8">
+  <properties
+      key="Domain"
+      value="party"/>
+  <properties
+      key="Data Type"
+      value="int"/>
+  <properties
+      key="Format"/>
+  <properties
+      key="Valid Values"/>
+  <properties
+      key="Source System"/>
+  <properties
+      key="Unique"
+      value="yes"/>
+  <properties
+      key="Nullable"
+      value="no"/>
+</archimate:DataObject>
