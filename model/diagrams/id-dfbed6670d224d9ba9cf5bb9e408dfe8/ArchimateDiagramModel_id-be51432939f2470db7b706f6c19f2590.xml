@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="17 Values Stream: Claims Process (To-Be)"
+    name="17. Values Stream: Claims Process (To-Be)"
     id="id-be51432939f2470db7b706f6c19f2590">
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -304,7 +304,7 @@
       content="Future state benefits&#xA;&#xA;By shifting from manual to digital-first intake and leveraging AI for decision support, the future state dramatically reduces cycle time while improving fraud detection accuracy. &#xA;">
     <bounds
         x="12"
-        y="1164"
+        y="972"
         width="841"
         height="80"/>
   </children>
