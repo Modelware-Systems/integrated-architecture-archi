@@ -1,7 +1,7 @@
-<archimate:BusinessObject
+<archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Claim Adjuster"
-    id="id-b01b14153ffd4950855585ea8b510a98">
+    id="id-ca71f21408f44002ab4850d52055cb0b">
   <properties
       key="TermId"/>
   <properties
@@ -19,4 +19,4 @@
       key="Approval Date"/>
   <properties
       key="Approved By"/>
-</archimate:BusinessObject>
+</archimate:BusinessRole>

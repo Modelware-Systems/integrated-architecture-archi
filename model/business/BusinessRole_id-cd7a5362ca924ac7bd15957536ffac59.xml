@@ -1,0 +1,23 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Insurer (copy)"
+    id="id-cd7a5362ca924ac7bd15957536ffac59">
+  <properties
+      key="TermId"
+      value="ORG-001​"/>
+  <properties
+      key="Business Definition"
+      value="An Insurer is the company or underwriter that provides the policy and coverage. ​"/>
+  <properties
+      key="Synonym"/>
+  <properties
+      key="Status"
+      value="Approved"/>
+  <properties
+      key="Version"
+      value="1.0"/>
+  <properties
+      key="Approval Date"/>
+  <properties
+      key="Approved By"/>
+</archimate:BusinessRole>

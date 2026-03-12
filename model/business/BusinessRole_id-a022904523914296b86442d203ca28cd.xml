@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Customer"
+    name="Customer (Domain)"
     id="id-a022904523914296b86442d203ca28cd">
   <properties
       key="TermId"/>
