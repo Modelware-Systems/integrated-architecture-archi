@@ -1,12 +1,11 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="issues"
-    id="id-c97e84e786b8417e9a069ecb8045d974"
-    directed="true">
+    name="hold"
+    id="id-c111078704ac44829a678d6a5fdb6b9f">
   <source
       xsi:type="archimate:BusinessRole"
-      href="BusinessRole_id-308bf72f26174bfc9f6b845635be9f83.xml#id-308bf72f26174bfc9f6b845635be9f83"/>
+      href="BusinessRole_id-7c84639b374e4e7698eec84027e4a293.xml#id-7c84639b374e4e7698eec84027e4a293"/>
   <target
       xsi:type="archimate:Contract"
       href="Contract_id-7233346070cb4f50a3ec049df69a2f97.xml#id-7233346070cb4f50a3ec049df69a2f97"/>
