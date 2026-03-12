@@ -12,7 +12,7 @@
     <bounds
         x="24"
         y="24"
-        width="577"
+        width="565"
         height="32"/>
   </children>
   <children
@@ -128,7 +128,7 @@
       </sourceConnections>
       <bounds
           x="421"
-          y="228"
+          y="240"
           width="120"
           height="55"/>
       <archimateElement
@@ -149,7 +149,7 @@
             href="AssociationRelationship_id-c97e84e786b8417e9a069ecb8045d974.xml#id-c97e84e786b8417e9a069ecb8045d974"/>
       </sourceConnections>
       <bounds
-          x="216"
+          x="204"
           y="24"
           width="120"
           height="55"/>
@@ -184,7 +184,7 @@
             href="AssociationRelationship_id-24713ff6abba4b4a8786bbf6b5d36889.xml#id-24713ff6abba4b4a8786bbf6b5d36889"/>
       </sourceConnections>
       <bounds
-          x="216"
+          x="204"
           y="132"
           width="120"
           height="55"/>
@@ -206,8 +206,8 @@
             href="AssociationRelationship_id-77568c1834a140e0a7900bb05c394ed4.xml#id-77568c1834a140e0a7900bb05c394ed4"/>
       </sourceConnections>
       <bounds
-          x="216"
-          y="228"
+          x="204"
+          y="240"
           width="120"
           height="55"/>
       <archimateElement
@@ -223,10 +223,6 @@
           id="id-4f88f6092836473bb34168abf2911250"
           source="id-245463fdf0a14ddb8f08dff4dbdd44d8"
           target="id-31c785bb87e04faf85cd0a4ceb8b21b9">
-        <bendpoints
-            startY="93"
-            endX="-192"
-            endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-e088adf8597040f19d7031741afbb39a.xml#id-e088adf8597040f19d7031741afbb39a"/>
@@ -241,10 +237,10 @@
             href="AssociationRelationship_id-c111078704ac44829a678d6a5fdb6b9f.xml#id-c111078704ac44829a678d6a5fdb6b9f"/>
       </sourceConnections>
       <bounds
-          x="24"
+          x="12"
           y="132"
           width="120"
-          height="55"/>
+          height="163"/>
       <archimateElement
           xsi:type="archimate:BusinessRole"
           href="BusinessRole_id-7c84639b374e4e7698eec84027e4a293.xml#id-7c84639b374e4e7698eec84027e4a293"/>
@@ -262,7 +258,7 @@
         name="legend"
         value="display=15,rows=15,offset=0,color=1,sort=1"/>
     <bounds
-        x="600"
+        x="588"
         y="24"
         width="210"
         height="157"/>

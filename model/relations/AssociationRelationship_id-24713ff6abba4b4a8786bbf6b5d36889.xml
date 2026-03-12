@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="outlines"
+    name="outline"
     id="id-24713ff6abba4b4a8786bbf6b5d36889"
     directed="true">
   <source
