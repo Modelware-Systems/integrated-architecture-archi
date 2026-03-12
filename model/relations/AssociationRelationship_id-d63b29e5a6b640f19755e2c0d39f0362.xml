@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="pay"
+    id="id-d63b29e5a6b640f19755e2c0d39f0362"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-7c84639b374e4e7698eec84027e4a293.xml#id-7c84639b374e4e7698eec84027e4a293"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-dd40d8e47433483c9f6c958d422b8e07.xml#id-dd40d8e47433483c9f6c958d422b8e07"/>
+</archimate:AssociationRelationship>

@@ -149,8 +149,8 @@
           width="193"
           height="43"/>
       <archimateElement
-          xsi:type="archimate:BusinessRole"
-          href="BusinessRole_id-d84de470721541da8dacc3536557ee32.xml#id-d84de470721541da8dacc3536557ee32"/>
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-7cf02714e86042f280cd489057d7b0dc.xml#id-7cf02714e86042f280cd489057d7b0dc"/>
     </children>
     <archimateElement
         xsi:type="archimate:Capability"

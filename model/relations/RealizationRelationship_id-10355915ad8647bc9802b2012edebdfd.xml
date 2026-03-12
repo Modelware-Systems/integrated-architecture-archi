@@ -4,8 +4,8 @@
     name="responsible for"
     id="id-10355915ad8647bc9802b2012edebdfd">
   <source
-      xsi:type="archimate:BusinessRole"
-      href="BusinessRole_id-d84de470721541da8dacc3536557ee32.xml#id-d84de470721541da8dacc3536557ee32"/>
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-7cf02714e86042f280cd489057d7b0dc.xml#id-7cf02714e86042f280cd489057d7b0dc"/>
   <target
       xsi:type="archimate:Capability"
       href="Capability_id-de5b6c0345a348188ee0bbe9306b51a7.xml#id-de5b6c0345a348188ee0bbe9306b51a7"/>

@@ -6,6 +6,6 @@
       xsi:type="archimate:Grouping"
       href="Grouping_id-f1cb12827ada4087a039737f36c83fe1.xml#id-f1cb12827ada4087a039737f36c83fe1"/>
   <target
-      xsi:type="archimate:BusinessRole"
-      href="BusinessRole_id-06d49757b23440848f940846a6a118cf.xml#id-06d49757b23440848f940846a6a118cf"/>
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-61e2e8bce9bc4651bcaca7599038aab5.xml#id-61e2e8bce9bc4651bcaca7599038aab5"/>
 </archimate:CompositionRelationship>

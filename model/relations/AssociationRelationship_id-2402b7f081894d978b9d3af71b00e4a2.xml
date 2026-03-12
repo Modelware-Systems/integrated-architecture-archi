@@ -5,8 +5,8 @@
     id="id-2402b7f081894d978b9d3af71b00e4a2"
     directed="true">
   <source
-      xsi:type="archimate:BusinessRole"
-      href="BusinessRole_id-d84de470721541da8dacc3536557ee32.xml#id-d84de470721541da8dacc3536557ee32"/>
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-7cf02714e86042f280cd489057d7b0dc.xml#id-7cf02714e86042f280cd489057d7b0dc"/>
   <target
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_id-64e05159e9c94d6c840e388746593f76.xml#id-64e05159e9c94d6c840e388746593f76"/>

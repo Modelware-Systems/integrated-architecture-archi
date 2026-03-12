@@ -7,56 +7,58 @@
       value="CLM-001​"/>
   <properties
       key="class(Genus)"
-      value="Request"/>
+      value="request"/>
   <properties
       key="differentiatorFunctional"
-      value="Compensation"/>
+      value="rempensation"/>
   <properties
       key="differentiatorConstituants"
-      value="Policy Holder; Insurer"/>
+      value="policyholder; insurer"/>
   <properties
       key="differentiatorConditions"
-      value="Covered Loss"/>
+      value="coveredLoss"/>
   <properties
       key="Differentiator - Scope"
-      value="Policy"/>
+      value="policy"/>
   <properties
       key="Business Definition"
-      value="A Claim is a request that a policyholder submits to an insurer to receive compensation for a covered loss. ​"/>
+      value="A claim is a request that a policyholder submits to an insurer to receive compensation for a covered loss. ​"/>
   <properties
       key="Synonym"
-      value="​"/>
+      value="​lossClaim"/>
   <properties
       key="businessContext"
-      value="Claims"/>
+      value="claims"/>
   <properties
       key="Valid Values"/>
   <properties
-      key="Steward / Owner"/>
+      key="Steward / Owner"
+      value="claimManager"/>
   <properties
       key="Status"
-      value="Approved"/>
+      value="open, pending, approved, closed"/>
   <properties
-      key="Domain"/>
+      key="Domain"
+      value="insuranceDomain"/>
   <properties
       key="Version"
       value="1.0"/>
   <properties
       key="Valid Values"/>
   <properties
-      key="Source System Title"/>
+      key="Source System Title"
+      value="claimsManagementSystem"/>
   <properties
       key="Source System Description"/>
   <properties
-      key="Creator / Steward"/>
+      key="Creator / Steward"
+      value="claimsAgent"/>
   <properties
       key="Date Created"/>
   <properties
-      key="Approval Date"
-      value="1 February 2026"/>
+      key="Approval Date"/>
   <properties
-      key="Approved By"
-      value="Howard Diesel"/>
+      key="Approved By"/>
   <properties
       key="Change History"/>
 </archimate:BusinessEvent>
