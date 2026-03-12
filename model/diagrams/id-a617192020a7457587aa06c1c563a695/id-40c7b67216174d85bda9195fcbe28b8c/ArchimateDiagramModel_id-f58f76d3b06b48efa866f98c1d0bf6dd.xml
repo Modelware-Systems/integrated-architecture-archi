@@ -156,8 +156,8 @@
           width="253"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:BusinessRole"
-          href="BusinessRole_id-06d49757b23440848f940846a6a118cf.xml#id-06d49757b23440848f940846a6a118cf"/>
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-61e2e8bce9bc4651bcaca7599038aab5.xml#id-61e2e8bce9bc4651bcaca7599038aab5"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -461,8 +461,8 @@
             endX="-65"
             endY="108"/>
         <archimateRelationship
-            xsi:type="archimate:SpecializationRelationship"
-            href="SpecializationRelationship_id-fed2a72ce97f4455b804d0af89f9c802.xml#id-fed2a72ce97f4455b804d0af89f9c802"/>
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-551702bbb31b4677b5beab2d80f62fd0.xml#id-551702bbb31b4677b5beab2d80f62fd0"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -499,8 +499,8 @@
             endX="67"
             endY="108"/>
         <archimateRelationship
-            xsi:type="archimate:SpecializationRelationship"
-            href="SpecializationRelationship_id-cf654a4e8d7642b5b3efd0e06c8aad2a.xml#id-cf654a4e8d7642b5b3efd0e06c8aad2a"/>
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-a204fc7857b64da5a267c19a5158364a.xml#id-a204fc7857b64da5a267c19a5158364a"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"

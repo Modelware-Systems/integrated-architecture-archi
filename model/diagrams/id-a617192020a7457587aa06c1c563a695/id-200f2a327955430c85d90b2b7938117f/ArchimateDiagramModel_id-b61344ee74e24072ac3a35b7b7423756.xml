@@ -142,8 +142,8 @@
               width="120"
               height="55"/>
           <archimateElement
-              xsi:type="archimate:Meaning"
-              href="Meaning_id-454fe61a3f2542b498b5ec1ecce5c849.xml#id-454fe61a3f2542b498b5ec1ecce5c849"/>
+              xsi:type="archimate:Constraint"
+              href="Constraint_id-30585c1167e14b2aba3bbc4d8c317052.xml#id-30585c1167e14b2aba3bbc4d8c317052"/>
         </children>
         <archimateElement
             xsi:type="archimate:Grouping"
@@ -217,8 +217,8 @@
               width="120"
               height="55"/>
           <archimateElement
-              xsi:type="archimate:Meaning"
-              href="Meaning_id-e48b0bf138144d9b985874517e2d1ba5.xml#id-e48b0bf138144d9b985874517e2d1ba5"/>
+              xsi:type="archimate:Constraint"
+              href="Constraint_id-6f3db66f233546d097fd47ebc70f4641.xml#id-6f3db66f233546d097fd47ebc70f4641"/>
         </children>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
@@ -230,8 +230,8 @@
               width="120"
               height="55"/>
           <archimateElement
-              xsi:type="archimate:Meaning"
-              href="Meaning_id-cefc69f6e38a4248af8e2ea49a09d716.xml#id-cefc69f6e38a4248af8e2ea49a09d716"/>
+              xsi:type="archimate:Constraint"
+              href="Constraint_id-7315be7e13314003b42afd6a9196744f.xml#id-7315be7e13314003b42afd6a9196744f"/>
         </children>
         <archimateElement
             xsi:type="archimate:Grouping"
@@ -428,8 +428,8 @@
               width="120"
               height="55"/>
           <archimateElement
-              xsi:type="archimate:Meaning"
-              href="Meaning_id-007964c0e94641e1956fd697f74aa24c.xml#id-007964c0e94641e1956fd697f74aa24c"/>
+              xsi:type="archimate:Constraint"
+              href="Constraint_id-aee82bd5c873481f8a09946d97e48e0c.xml#id-aee82bd5c873481f8a09946d97e48e0c"/>
         </children>
         <archimateElement
             xsi:type="archimate:Grouping"
