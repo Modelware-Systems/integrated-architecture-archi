@@ -18,7 +18,7 @@
       key="differentiatorConditions"
       value="coveredLoss"/>
   <properties
-      key="Differentiator - Scope"
+      key="differentiatorScope"
       value="policy"/>
   <properties
       key="Business Definition"

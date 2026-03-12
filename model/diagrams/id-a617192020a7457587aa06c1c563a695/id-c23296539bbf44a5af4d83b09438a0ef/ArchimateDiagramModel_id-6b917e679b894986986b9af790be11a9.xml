@@ -7,7 +7,8 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-61cfe737ad2440c28afc57c4e9da6e4e"
       textAlignment="1"
-      content="Policy Domain">
+      content="Policy Domain"
+      borderType="1">
     <bounds
         x="467"
         y="60"
@@ -18,7 +19,8 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-f44b157c2b9343b3a16b4298925beca7"
       textAlignment="1"
-      content="Party Domain">
+      content="Party Domain"
+      borderType="1">
     <bounds
         x="13"
         y="60"
@@ -34,14 +36,15 @@
     <bounds
         x="13"
         y="12"
-        width="684"
+        width="696"
         height="32"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-1f625c74d2c8483ca866aa3820899fde"
       textAlignment="1"
-      content="Claims Domain">
+      content="Claims Domain"
+      borderType="1">
     <bounds
         x="240"
         y="60"
@@ -146,7 +149,7 @@
         name="legend"
         value="display=15,rows=15,offset=0,color=1,sort=1"/>
     <bounds
-        x="696"
+        x="708"
         y="12"
         width="210"
         height="109"/>
