@@ -12,7 +12,7 @@
     <bounds
         x="24"
         y="24"
-        width="565"
+        width="589"
         height="32"/>
   </children>
   <children
@@ -111,7 +111,7 @@
     <bounds
         x="24"
         y="72"
-        width="553"
+        width="577"
         height="323"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -127,7 +127,7 @@
             href="AssociationRelationship_id-77c9ea39f44b4daea95090caba814411.xml#id-77c9ea39f44b4daea95090caba814411"/>
       </sourceConnections>
       <bounds
-          x="421"
+          x="444"
           y="240"
           width="120"
           height="55"/>
@@ -149,7 +149,7 @@
             href="AssociationRelationship_id-c97e84e786b8417e9a069ecb8045d974.xml#id-c97e84e786b8417e9a069ecb8045d974"/>
       </sourceConnections>
       <bounds
-          x="204"
+          x="228"
           y="24"
           width="120"
           height="55"/>
@@ -160,9 +160,9 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-95321b967fe3477bb527e58f2d005157"
-        targetConnections="id-f1654a67667646faa8ea817b7460e755 id-e957304ad08e4593ba6332c9ffcbe735">
+        targetConnections="id-e957304ad08e4593ba6332c9ffcbe735">
       <bounds
-          x="421"
+          x="444"
           y="132"
           width="120"
           height="55"/>
@@ -174,17 +174,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3efb6ae4eb0d41a8b354d1e359dc5d81"
         targetConnections="id-791ed74576374086a372961f78cbe243 id-d5631c67d48e417ea5d142b54e0261b0 id-ec8bf58d3c8644d39dd4842985e4ff85 id-17f29870ae3246aeafabd6689dafe662">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-f1654a67667646faa8ea817b7460e755"
-          source="id-3efb6ae4eb0d41a8b354d1e359dc5d81"
-          target="id-95321b967fe3477bb527e58f2d005157">
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-24713ff6abba4b4a8786bbf6b5d36889.xml#id-24713ff6abba4b4a8786bbf6b5d36889"/>
-      </sourceConnections>
       <bounds
-          x="204"
+          x="228"
           y="132"
           width="120"
           height="55"/>
@@ -206,7 +197,7 @@
             href="AssociationRelationship_id-77568c1834a140e0a7900bb05c394ed4.xml#id-77568c1834a140e0a7900bb05c394ed4"/>
       </sourceConnections>
       <bounds
-          x="204"
+          x="228"
           y="240"
           width="120"
           height="55"/>
@@ -258,7 +249,7 @@
         name="legend"
         value="display=15,rows=15,offset=0,color=1,sort=1"/>
     <bounds
-        x="588"
+        x="612"
         y="24"
         width="210"
         height="157"/>

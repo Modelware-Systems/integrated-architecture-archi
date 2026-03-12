@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="hold"
-    id="id-c111078704ac44829a678d6a5fdb6b9f">
+    id="id-c111078704ac44829a678d6a5fdb6b9f"
+    directed="true">
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_id-7c84639b374e4e7698eec84027e4a293.xml#id-7c84639b374e4e7698eec84027e4a293"/>
