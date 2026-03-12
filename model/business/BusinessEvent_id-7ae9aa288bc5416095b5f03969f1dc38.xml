@@ -7,39 +7,39 @@
       value="CLM-001​"/>
   <properties
       key="class(Genus)"
-      value="Request"/>
+      value="request"/>
   <properties
       key="differentiatorFunctional"
-      value="Compensation"/>
+      value="rempensation"/>
   <properties
       key="differentiatorConstituants"
-      value="Policy Holder; Insurer"/>
+      value="policyholder; insurer"/>
   <properties
       key="differentiatorConditions"
-      value="Covered Loss"/>
+      value="coveredLoss"/>
   <properties
       key="Differentiator - Scope"
-      value="Policy"/>
+      value="policy"/>
   <properties
       key="Business Definition"
-      value="A Claim is a request that a policyholder submits to an insurer to receive compensation for a covered loss. ​"/>
+      value="A claim is a request that a policyholder submits to an insurer to receive compensation for a covered loss. ​"/>
   <properties
       key="Synonym"
-      value="​Loss Claim"/>
+      value="​lossClaim"/>
   <properties
       key="businessContext"
-      value="Claims"/>
+      value="claims"/>
   <properties
       key="Valid Values"/>
   <properties
       key="Steward / Owner"
-      value="Claims Manager"/>
+      value="claimManager"/>
   <properties
       key="Status"
-      value="Open, Pending, Approved, Closed"/>
+      value="open, pending, approved, closed"/>
   <properties
       key="Domain"
-      value="Insurance Domain"/>
+      value="insuranceDomain"/>
   <properties
       key="Version"
       value="1.0"/>
@@ -47,12 +47,12 @@
       key="Valid Values"/>
   <properties
       key="Source System Title"
-      value="Claims Management System"/>
+      value="claimsManagementSystem"/>
   <properties
       key="Source System Description"/>
   <properties
       key="Creator / Steward"
-      value="Claims Agent"/>
+      value="claimsAgent"/>
   <properties
       key="Date Created"/>
   <properties
