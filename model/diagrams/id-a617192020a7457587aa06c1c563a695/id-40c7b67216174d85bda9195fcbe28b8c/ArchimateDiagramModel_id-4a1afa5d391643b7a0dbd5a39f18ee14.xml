@@ -475,7 +475,8 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-cd2781fcc1e7449eb6e0e59539e1ff60"
-            targetConnections="id-1637d012d513424692535366ec343003 id-7389458e01ce41329ad2587481ea514f id-6e541b8ae3c940a99f0f29648fb89c54 id-69f8bb7254ee4bbf822fda98e87b2d39">
+            targetConnections="id-1637d012d513424692535366ec343003 id-7389458e01ce41329ad2587481ea514f id-6e541b8ae3c940a99f0f29648fb89c54 id-69f8bb7254ee4bbf822fda98e87b2d39"
+            alpha="100">
           <bounds
               x="29"
               y="120"
@@ -643,8 +644,8 @@
           width="204"
           height="48"/>
       <archimateElement
-          xsi:type="archimate:Contract"
-          href="Contract_id-c66c300361f444e1a104b435681ca5a3.xml#id-c66c300361f444e1a104b435681ca5a3"/>
+          xsi:type="archimate:BusinessRole"
+          href="BusinessRole_id-fad9ef314dc040e38a462483353b925b.xml#id-fad9ef314dc040e38a462483353b925b"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -764,8 +765,8 @@
           width="204"
           height="48"/>
       <archimateElement
-          xsi:type="archimate:Contract"
-          href="Contract_id-8b42fece38dc4215add4f61779c5460f.xml#id-8b42fece38dc4215add4f61779c5460f"/>
+          xsi:type="archimate:BusinessRole"
+          href="BusinessRole_id-468d86dda7984d94a02fcd7d3397141b.xml#id-468d86dda7984d94a02fcd7d3397141b"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -842,8 +843,8 @@
           width="204"
           height="48"/>
       <archimateElement
-          xsi:type="archimate:Contract"
-          href="Contract_id-5e8e7f1c34014f5c98695fd86d713b3f.xml#id-5e8e7f1c34014f5c98695fd86d713b3f"/>
+          xsi:type="archimate:BusinessRole"
+          href="BusinessRole_id-fadade808e72476a9da1cd065a6fe183.xml#id-fadade808e72476a9da1cd065a6fe183"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
