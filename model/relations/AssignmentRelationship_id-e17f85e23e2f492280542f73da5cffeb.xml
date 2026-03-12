@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="benefits"
+    id="id-e17f85e23e2f492280542f73da5cffeb">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-725063acaa2d48d2ae53a7d55966ba6d.xml#id-725063acaa2d48d2ae53a7d55966ba6d"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-2853c549e8e9422aa730b70070e3fa22.xml#id-2853c549e8e9422aa730b70070e3fa22"/>
+</archimate:AssignmentRelationship>
