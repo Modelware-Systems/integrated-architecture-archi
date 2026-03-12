@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2.1 Structured Definition Pattern - Policyholder"
+    name="2.1 Structured Definition Pattern - Policyholder Deliverable 1"
     id="id-d30b783c3e63440f85b9c666b9878801">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -514,7 +514,7 @@
       id="id-d5da892bd1d749ff8e42d15d1989e050"
       font="1|Lucida Grande|18.0|1|COCOA|1|LucidaGrande-Bold"
       textAlignment="1"
-      content="Structured Definition Pattern - Policyholder">
+      content="Structured Definition Pattern (The Intralign (TM) 6-Friends Method) - Policyholder">
     <bounds
         x="12"
         y="12"
