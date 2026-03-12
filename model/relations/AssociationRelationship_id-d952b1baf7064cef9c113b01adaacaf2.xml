@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="drives"
+    id="id-d952b1baf7064cef9c113b01adaacaf2"
+    directed="true">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-1842b200c2594b03a3344dbea4a51dae.xml#id-1842b200c2594b03a3344dbea4a51dae"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-ccaa0f7906a743dd815f6ac17ae5ed7e.xml#id-ccaa0f7906a743dd815f6ac17ae5ed7e"/>
+</archimate:AssociationRelationship>

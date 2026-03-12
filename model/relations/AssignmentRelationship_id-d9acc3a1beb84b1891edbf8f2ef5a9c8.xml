@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="improves"
+    id="id-d9acc3a1beb84b1891edbf8f2ef5a9c8">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-725063acaa2d48d2ae53a7d55966ba6d.xml#id-725063acaa2d48d2ae53a7d55966ba6d"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-d4d80522a52c4d028eef4a36742f1b5f.xml#id-d4d80522a52c4d028eef4a36742f1b5f"/>
+</archimate:AssignmentRelationship>
