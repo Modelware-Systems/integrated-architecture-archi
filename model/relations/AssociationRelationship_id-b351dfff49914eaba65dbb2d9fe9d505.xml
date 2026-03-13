@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="direct"
+    name="direct ACCORD equivelent"
     id="id-b351dfff49914eaba65dbb2d9fe9d505">
   <source
       xsi:type="archimate:Contract"

@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="direct"
+    name="direct FIBO equivelent"
     id="id-a456462d47fe47abbc169e606de416ac">
   <source
       xsi:type="archimate:BusinessObject"
