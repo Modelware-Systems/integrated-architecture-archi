@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="consulted (C)"
+    id="id-5e5acf5a69594a28a4fa80a1ab41c045"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-82081d7bdbd64e7e99721043a301bcdb.xml#id-82081d7bdbd64e7e99721043a301bcdb"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-589583dfea1f413c9db1ffdb3b1f0cd0.xml#id-589583dfea1f413c9db1ffdb3b1f0cd0"/>
+</archimate:AssociationRelationship>

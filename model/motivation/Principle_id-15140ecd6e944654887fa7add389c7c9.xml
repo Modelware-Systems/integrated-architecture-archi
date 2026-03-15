@@ -1,4 +1,12 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interoperability"
-    id="id-15140ecd6e944654887fa7add389c7c9"/>
+    id="id-15140ecd6e944654887fa7add389c7c9"
+    documentation="Sheet: Elements&#xA;Column: Principles">
+  <properties
+      key="workbookSheet"
+      value="Elements"/>
+  <properties
+      key="workbookField"
+      value="Principles"/>
+</archimate:Principle>

@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Damage Asessment"
+    id="id-fe10346a128c412eac85027fc9c31c41">
+  <properties
+      key="Description"
+      value="Analyse vehicle images"/>
+</archimate:BusinessProcess>

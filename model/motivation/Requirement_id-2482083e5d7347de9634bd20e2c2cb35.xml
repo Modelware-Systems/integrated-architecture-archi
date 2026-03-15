@@ -1,0 +1,11 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document ingestion pipeline"
+    id="id-2482083e5d7347de9634bd20e2c2cb35">
+  <properties
+      key="workbookSheet"
+      value="Elements"/>
+  <properties
+      key="workbookField"
+      value="Patterns"/>
+</archimate:Requirement>

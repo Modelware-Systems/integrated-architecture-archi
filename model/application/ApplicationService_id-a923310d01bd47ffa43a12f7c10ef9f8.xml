@@ -1,0 +1,14 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OCR"
+    id="id-a923310d01bd47ffa43a12f7c10ef9f8">
+  <properties
+      key="workbookSheet"
+      value="Modules"/>
+  <properties
+      key="workbookField"
+      value="AI Services"/>
+  <properties
+      key="Tools/Standards"
+      value="Azure ML; Databricks; Open AI"/>
+</archimate:ApplicationService>

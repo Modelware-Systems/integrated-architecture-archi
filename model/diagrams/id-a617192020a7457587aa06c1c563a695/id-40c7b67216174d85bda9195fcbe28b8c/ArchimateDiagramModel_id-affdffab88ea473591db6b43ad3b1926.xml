@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reference Data Architecture - Conceptual Data Model"
+    id="id-affdffab88ea473591db6b43ad3b1926">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-bd4da0feb8ef4326a9045004cea02df3"
+      textAlignment="1"
+      content="Reference Data Architecture - Conceptual Data Model">
+    <bounds
+        x="12"
+        y="12"
+        width="346"
+        height="40"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-34ef5bea87f34b07bb1d0ba016a51575"
+      name="Legend"
+      textAlignment="1">
+    <features
+        name="legend"
+        value="display=15,rows=15,offset=0,color=1,sort=1"/>
+    <bounds
+        x="636"
+        y="12"
+        width="210"
+        height="320"/>
+  </children>
+</archimate:ArchimateDiagramModel>
