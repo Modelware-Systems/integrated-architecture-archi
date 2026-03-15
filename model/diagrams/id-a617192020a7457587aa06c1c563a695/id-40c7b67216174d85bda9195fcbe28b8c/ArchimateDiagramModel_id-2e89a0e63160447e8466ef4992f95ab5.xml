@@ -1,0 +1,55 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reference Data Architecture - AI Use Case Architecture"
+    id="id-2e89a0e63160447e8466ef4992f95ab5">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-df00d4849f894128b06382d4999ea7b0"
+      textAlignment="1"
+      content="Reference Data Architecture - AI Use Case Architecture">
+    <bounds
+        x="12"
+        y="12"
+        width="481"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5cdbc69b623c427487a3e65ac25c1bf6"
+      name="Legend"
+      textAlignment="1">
+    <features
+        name="legend"
+        value="display=15,rows=15,offset=0,color=1,sort=1"/>
+    <bounds
+        x="761"
+        y="111"
+        width="210"
+        height="320"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-baf3df9b86aa482aa10ccb41ccf66ce6">
+    <bounds
+        x="134"
+        y="191"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-448755e8254640bdb985882fdc275f5c.xml#id-448755e8254640bdb985882fdc275f5c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-cae7dea73cf341c79b6c6bacfe2c2210">
+    <bounds
+        x="134"
+        y="264"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-894c6fda5acd4c8dbb28afea131bdd72.xml#id-894c6fda5acd4c8dbb28afea131bdd72"/>
+  </children>
+</archimate:ArchimateDiagramModel>
