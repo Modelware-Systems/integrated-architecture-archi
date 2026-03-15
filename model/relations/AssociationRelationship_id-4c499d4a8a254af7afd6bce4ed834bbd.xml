@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="accountability (A)"
+    id="id-4c499d4a8a254af7afd6bce4ed834bbd"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-e4c559e1e60c4d989db4c0b419c596cb.xml#id-e4c559e1e60c4d989db4c0b419c596cb"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-589583dfea1f413c9db1ffdb3b1f0cd0.xml#id-589583dfea1f413c9db1ffdb3b1f0cd0"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="associated risk"
+    id="id-e7d54291aef849a9a7faae81f748dece"
+    directed="true">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-0e414c23563f461d8de83ef0c791e0ed.xml#id-0e414c23563f461d8de83ef0c791e0ed"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-c1d3f63589b3429b90028570368f474b.xml#id-c1d3f63589b3429b90028570368f474b"/>
+</archimate:AssociationRelationship>

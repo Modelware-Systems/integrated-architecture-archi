@@ -28,28 +28,4 @@
         width="210"
         height="320"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a7fe65852d4e43fd8a24263a8b65ed25">
-    <bounds
-        x="80"
-        y="106"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Assessment"
-        href="Assessment_id-2c7a88a9565544c484d2159a91a3a087.xml#id-2c7a88a9565544c484d2159a91a3a087"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-3fe2e682a7084560b298d47dbc4a8fcf">
-    <bounds
-        x="96"
-        y="205"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Requirement"
-        href="Requirement_id-d8128bf019434d1abef7cc4425c45197.xml#id-d8128bf019434d1abef7cc4425c45197"/>
-  </children>
 </archimate:ArchimateDiagramModel>
