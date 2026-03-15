@@ -22,7 +22,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-3241549915844763b8fcb462fe98fc4b"
       textAlignment="1"
-      content="Reference Data Architecture - Platform Architecture">
+      content="Reference Data Architecture">
     <bounds
         x="12"
         y="12"
@@ -592,7 +592,7 @@
         id="id-0fa97d090dd34058af296de5efd3dd4a"
         targetConnections="id-ee4fb0adbf3a453893e95f3bc7ca77b7">
       <bounds
-          x="300"
+          x="288"
           y="36"
           width="120"
           height="55"/>

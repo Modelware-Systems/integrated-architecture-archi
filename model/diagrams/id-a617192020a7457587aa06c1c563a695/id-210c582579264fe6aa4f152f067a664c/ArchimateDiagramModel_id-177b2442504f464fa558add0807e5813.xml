@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="5. Claims Data Flow"
+    name="5. Claims Data Flow - Example"
     id="id-177b2442504f464fa558add0807e5813">
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -132,7 +132,7 @@
     </sourceConnections>
     <bounds
         x="26"
-        y="384"
+        y="350"
         width="1199"
         height="140"/>
     <children
@@ -307,7 +307,7 @@
     </sourceConnections>
     <bounds
         x="26"
-        y="228"
+        y="211"
         width="1199"
         height="140"/>
     <children

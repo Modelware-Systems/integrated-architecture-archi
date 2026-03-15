@@ -9,6 +9,6 @@
       key="workbookField"
       value="AI Services"/>
   <properties
-      key="Tools/Standards"
+      key="toolsStandards"
       value="Azure ML; Databricks; Open AI"/>
 </archimate:ApplicationService>
