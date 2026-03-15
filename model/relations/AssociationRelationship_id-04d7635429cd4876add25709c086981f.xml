@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="if less than"
+    id="id-04d7635429cd4876add25709c086981f"
+    directed="true">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-92ef74c2231d45bf975fad3ae3931f9c.xml#id-92ef74c2231d45bf975fad3ae3931f9c"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-fa73571973754f04812ba71325d25746.xml#id-fa73571973754f04812ba71325d25746"/>
+</archimate:AssociationRelationship>

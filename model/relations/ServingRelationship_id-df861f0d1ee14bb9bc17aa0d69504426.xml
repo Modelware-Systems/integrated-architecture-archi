@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="history &amp; loyalty check"
+    id="id-df861f0d1ee14bb9bc17aa0d69504426">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-35b362fe5a8f4bcb9d4e135956ec5442.xml#id-35b362fe5a8f4bcb9d4e135956ec5442"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-e8ee6055822c4543a7e70fe5e81ec2e9.xml#id-e8ee6055822c4543a7e70fe5e81ec2e9"/>
+</archimate:ServingRelationship>

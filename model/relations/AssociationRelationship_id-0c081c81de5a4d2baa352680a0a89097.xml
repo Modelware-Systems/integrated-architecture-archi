@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="if anomally"
+    id="id-0c081c81de5a4d2baa352680a0a89097"
+    directed="true">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-92ef74c2231d45bf975fad3ae3931f9c.xml#id-92ef74c2231d45bf975fad3ae3931f9c"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-1cd9c149380e4c6ba5a50d8a29dc50f3.xml#id-1cd9c149380e4c6ba5a50d8a29dc50f3"/>
+</archimate:AssociationRelationship>

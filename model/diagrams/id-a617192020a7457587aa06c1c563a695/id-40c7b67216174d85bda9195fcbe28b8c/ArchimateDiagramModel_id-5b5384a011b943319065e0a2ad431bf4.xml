@@ -12,7 +12,7 @@
     <bounds
         x="12"
         y="12"
-        width="805"
+        width="733"
         height="39"/>
   </children>
   <children
@@ -257,7 +257,7 @@
         name="legend"
         value="display=15,rows=15,offset=0,color=1,sort=1"/>
     <bounds
-        x="816"
+        x="744"
         y="12"
         width="210"
         height="157"/>
