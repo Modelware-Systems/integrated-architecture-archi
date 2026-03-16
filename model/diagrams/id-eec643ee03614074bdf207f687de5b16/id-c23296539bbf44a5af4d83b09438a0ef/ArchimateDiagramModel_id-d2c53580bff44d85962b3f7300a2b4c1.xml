@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Conceptual Data Model"
+    name="1.1 Conceptual Data Model"
     id="id-d2c53580bff44d85962b3f7300a2b4c1">
   <children
       xsi:type="archimate:DiagramModelNote"

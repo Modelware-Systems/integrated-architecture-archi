@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Reference Data Architecture - Data Architecture Landscape (DMBOK Domains)"
+    name="8. Reference Data Architecture - Data Architecture Landscape (DMBOK Domains)"
     id="id-d02bec5bf2544821bb77b3d0946c744f">
   <children
       xsi:type="archimate:DiagramModelNote"
