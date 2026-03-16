@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="auto approve or flag"
+    id="id-743b305903f941578330cf0f2f317b10">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-ec46f8675e234e088b39876de177d18a.xml#id-ec46f8675e234e088b39876de177d18a"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-f890d83c08424b34a22b9e8ab98f8691.xml#id-f890d83c08424b34a22b9e8ab98f8691"/>
+</archimate:ServingRelationship>
