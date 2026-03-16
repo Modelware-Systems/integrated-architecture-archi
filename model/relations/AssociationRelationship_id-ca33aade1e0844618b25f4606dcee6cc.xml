@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sales &amp; services"
+    id="id-ca33aade1e0844618b25f4606dcee6cc"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-3f683544aaec47968bb3fb9ba3a6423a.xml#id-3f683544aaec47968bb3fb9ba3a6423a"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-7233346070cb4f50a3ec049df69a2f97.xml#id-7233346070cb4f50a3ec049df69a2f97"/>
+</archimate:AssociationRelationship>
