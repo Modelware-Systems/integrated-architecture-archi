@@ -3,21 +3,21 @@
     name="Insurer"
     id="id-308bf72f26174bfc9f6b845635be9f83">
   <properties
-      key="TermId"
+      key="termId"
       value="ORG-001​"/>
   <properties
-      key="Business Definition"
+      key="businessDefinition"
       value="An Insurer is the company or underwriter that provides the policy and coverage. ​"/>
   <properties
-      key="Synonym"/>
+      key="synonym"/>
   <properties
-      key="Status"
+      key="status"
       value="Approved"/>
   <properties
-      key="Version"
+      key="version"
       value="1.0"/>
   <properties
-      key="Approval Date"/>
+      key="approvalDate"/>
   <properties
-      key="Approved By"/>
+      key="approvedBy"/>
 </archimate:BusinessRole>

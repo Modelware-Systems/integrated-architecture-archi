@@ -3,6 +3,6 @@
     name="Document Extraction"
     id="id-e9e3cd8f457a4beda2a968dfa74b7668">
   <properties
-      key="Description"
+      key="description"
       value="Extract data from scanned claim forms"/>
 </archimate:BusinessProcess>

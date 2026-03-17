@@ -1045,17 +1045,17 @@
   </children>
   <properties/>
   <properties
-      key="Description"/>
+      key="description"/>
   <properties
-      key="Filter"/>
+      key="filter"/>
   <properties
-      key="Focus"/>
+      key="focus"/>
   <properties
-      key="Mode"/>
+      key="mode"/>
   <properties
-      key="Name"/>
+      key="name"/>
   <properties
-      key="Timer"/>
+      key="timer"/>
   <properties
-      key="Zoom"/>
+      key="zoom"/>
 </archimate:ArchimateDiagramModel>

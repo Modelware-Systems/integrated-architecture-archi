@@ -834,6 +834,6 @@
         href="BusinessRole_id-64e05159e9c94d6c840e388746593f76.xml#id-64e05159e9c94d6c840e388746593f76"/>
   </children>
   <properties
-      key="Business Definition"
+      key="businessDefinition"
       value="Manages the repository tool. orchetsrates the term lifecycle workflow"/>
 </archimate:ArchimateDiagramModel>

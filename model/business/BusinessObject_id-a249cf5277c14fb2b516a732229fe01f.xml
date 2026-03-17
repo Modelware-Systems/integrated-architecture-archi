@@ -3,18 +3,18 @@
     name="Net Claims Liability"
     id="id-a249cf5277c14fb2b516a732229fe01f">
   <properties
-      key="TermId"/>
+      key="termId"/>
   <properties
-      key="Business Definition"
+      key="businessDefinition"
       value="The calculated financial liability of the insurer after applying deductions, recoveries, and adjustments to total claim values."/>
   <properties
-      key="Synonym"/>
+      key="synonym"/>
   <properties
-      key="Status"/>
+      key="status"/>
   <properties
-      key="Version"/>
+      key="version"/>
   <properties
-      key="Approval Date"/>
+      key="approvalDate"/>
   <properties
-      key="Approved By"/>
+      key="approvedBy"/>
 </archimate:BusinessObject>

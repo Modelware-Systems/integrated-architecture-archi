@@ -3,20 +3,20 @@
     name="Adjuster"
     id="id-6bbba66ea7b24c90badbf45a4e7c7cb1">
   <properties
-      key="TermId"/>
+      key="termId"/>
   <properties
-      key="Business Definition"
+      key="businessDefinition"
       value="A Claim is a request that a policyholder submits to an insurer to receive compensation for a covered loss. ​"/>
   <properties
-      key="Synonym"/>
+      key="synonym"/>
   <properties
-      key="Status"
+      key="status"
       value="Approved"/>
   <properties
-      key="Version"
+      key="version"
       value="1.0"/>
   <properties
-      key="Approval Date"/>
+      key="approvalDate"/>
   <properties
-      key="Approved By"/>
+      key="approvedBy"/>
 </archimate:BusinessRole>

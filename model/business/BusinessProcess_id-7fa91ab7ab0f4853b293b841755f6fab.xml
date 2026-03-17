@@ -3,6 +3,6 @@
     name="Claims Traige"
     id="id-7fa91ab7ab0f4853b293b841755f6fab">
   <properties
-      key="Description"
+      key="description"
       value="Route claims based on complexity"/>
 </archimate:BusinessProcess>

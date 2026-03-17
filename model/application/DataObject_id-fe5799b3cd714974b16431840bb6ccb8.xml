@@ -3,21 +3,18 @@
     name="partyId (PK)"
     id="id-fe5799b3cd714974b16431840bb6ccb8">
   <properties
-      key="Domain"
-      value="party"/>
-  <properties
-      key="Data Type"
+      key="dataType"
       value="int"/>
   <properties
-      key="Format"/>
+      key="format"/>
   <properties
-      key="Valid Values"/>
+      key="validValues"/>
   <properties
-      key="Source System"/>
+      key="sourceSystem"/>
   <properties
-      key="Unique"
+      key="unique"
       value="yes"/>
   <properties
-      key="Nullable"
+      key="nullable"
       value="no"/>
 </archimate:DataObject>

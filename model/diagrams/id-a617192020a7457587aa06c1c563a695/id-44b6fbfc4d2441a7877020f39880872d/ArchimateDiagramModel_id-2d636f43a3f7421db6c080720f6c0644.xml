@@ -65,27 +65,25 @@
         height="85"/>
   </children>
   <properties
-      key="TermId"/>
+      key="termId"/>
   <properties
-      key="Valid Values"/>
+      key="validValues"/>
   <properties
-      key="Data Type"/>
+      key="dataType"/>
   <properties
-      key="Format"/>
+      key="format"/>
   <properties
-      key="Data Steward"/>
+      key="businessRule"/>
   <properties
-      key="Business Rule"/>
+      key="sourceSystemId"/>
   <properties
-      key="Source System Id"/>
+      key="dataLineageSummary"/>
   <properties
-      key="Data Lineage Summary"/>
+      key="relatedTerms"/>
   <properties
-      key="Related Terms"/>
+      key="usageNotes"/>
   <properties
-      key="Usage Notes"/>
+      key="termName"/>
   <properties
-      key="Term Name"/>
-  <properties
-      key="Term Description"/>
+      key="termDescription"/>
 </archimate:ArchimateDiagramModel>

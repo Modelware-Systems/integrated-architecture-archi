@@ -3,6 +3,6 @@
     name="Fraud Detection"
     id="id-a670ab52a31e43e68c6312e890bfcc2d">
   <properties
-      key="Description"
+      key="description"
       value="Score claims for fraud risk"/>
 </archimate:BusinessProcess>
