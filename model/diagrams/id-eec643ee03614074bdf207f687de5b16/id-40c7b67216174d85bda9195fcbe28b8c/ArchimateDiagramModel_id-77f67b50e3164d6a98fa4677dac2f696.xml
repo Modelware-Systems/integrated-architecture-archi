@@ -6,6 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-55f75a0fadc0481eb126de4df29ee92f"
+      font="1|Lucida Grande|18.0|0|COCOA|1|LucidaGrande"
       textAlignment="1"
       content="Reference Data Architecture - Risk">
     <bounds
