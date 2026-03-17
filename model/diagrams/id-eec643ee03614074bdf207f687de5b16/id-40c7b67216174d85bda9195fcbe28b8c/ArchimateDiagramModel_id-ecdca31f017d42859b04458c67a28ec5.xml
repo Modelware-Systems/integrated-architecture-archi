@@ -20,6 +20,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-ea6d3dac3de14ff0a31d96f0f7183529"
+      font="1|Lucida Grande|18.0|0|COCOA|1|LucidaGrande"
       textAlignment="1"
       content="Reference Data Architecture - Roadmap">
     <bounds
