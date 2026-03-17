@@ -4,17 +4,17 @@
     id="id-9b4ffae082ae4b8fa764438932980ea4"
     documentation="Represents a performance or analytical indicator.&#xA;&#xA;It is:&#xA;&#xA;Derived from one or more measures&#xA;&#xA;Used for reporting or decision-making&#xA;&#xA;Often aggregated, adjusted, or contextual&#xA;&#xA;Often linked to a capability or objective&#xA;&#xA;Examples:&#xA;Net Claims Liability&#xA;Loss Ratio&#xA;Claims Severity&#xA;Fraud Rate">
   <properties
-      key="TermId"/>
+      key="termId"/>
   <properties
-      key="Business Definition"/>
+      key="businessDefinition"/>
   <properties
-      key="Synonym"/>
+      key="synonym"/>
   <properties
-      key="Status"/>
+      key="status"/>
   <properties
-      key="Version"/>
+      key="version"/>
   <properties
-      key="Approval Date"/>
+      key="approvalDate"/>
   <properties
-      key="Approved By"/>
+      key="approvedBy"/>
 </archimate:BusinessObject>

@@ -3,18 +3,18 @@
     name="Claim Amount"
     id="id-55b1dd5045824702a24c7ab6ed9100d2">
   <properties
-      key="TermId"/>
+      key="termId"/>
   <properties
-      key="Business Definition"
+      key="businessDefinition"
       value="The total monetary value submitted by a policyholder in a claim before adjustments or deductions."/>
   <properties
-      key="Synonym"/>
+      key="synonym"/>
   <properties
-      key="Approval Date"/>
+      key="approvalDate"/>
   <properties
-      key="Approved By"/>
+      key="approvedBy"/>
   <properties
-      key="Status"/>
+      key="status"/>
   <properties
-      key="Version"/>
+      key="version"/>
 </archimate:BusinessObject>

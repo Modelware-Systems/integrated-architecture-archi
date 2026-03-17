@@ -3,6 +3,6 @@
     name="Damage Asessment"
     id="id-fe10346a128c412eac85027fc9c31c41">
   <properties
-      key="Description"
+      key="description"
       value="Analyse vehicle images"/>
 </archimate:BusinessProcess>

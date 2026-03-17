@@ -3,21 +3,21 @@
     name="Policy"
     id="id-7233346070cb4f50a3ec049df69a2f97">
   <properties
-      key="TermId"
+      key="termId"
       value="POL-001​"/>
   <properties
-      key="Business Definition"
+      key="businessDefinition"
       value="A Policy is a contract between an insurer and a customer that outlines coverage terms and premium. "/>
   <properties
-      key="Synonym"/>
+      key="synonym"/>
   <properties
-      key="Version"
+      key="version"
       value="1.0"/>
   <properties
-      key="Status"
+      key="status"
       value="Approved"/>
   <properties
-      key="Approval Date"/>
+      key="approvalDate"/>
   <properties
-      key="Approved By"/>
+      key="approvedBy"/>
 </archimate:Contract>

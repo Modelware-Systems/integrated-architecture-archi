@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Modelware Integrated Architecture"
     id="id-15a7b6ccf70b406986fbc46d2d25e2cd"
-    version="5.0.0">
-  <properties
-      key="maturityLevel"
-      value="Managed (3)"/>
-</archimate:ArchimateModel>
+    version="5.0.0"/>
