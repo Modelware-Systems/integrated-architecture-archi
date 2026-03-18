@@ -4,8 +4,8 @@
     name="realises"
     id="id-ef9f084eca4a49928aa1169d99fbfb12">
   <source
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_id-e6f59e2810974b6e9a0b5947b383d282.xml#id-e6f59e2810974b6e9a0b5947b383d282"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-656289c1672f45dd8cadc6329f61101c.xml#id-656289c1672f45dd8cadc6329f61101c"/>
   <target
       xsi:type="archimate:Capability"
       href="Capability_id-9e67aa9b6e9c4f7bb2995a2b8bdcb482.xml#id-9e67aa9b6e9c4f7bb2995a2b8bdcb482"/>
