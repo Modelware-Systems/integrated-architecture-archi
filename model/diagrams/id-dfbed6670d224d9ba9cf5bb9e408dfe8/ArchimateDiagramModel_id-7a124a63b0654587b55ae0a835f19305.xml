@@ -1,0 +1,32 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="19. CAPSTONE DRD"
+    id="id-7a124a63b0654587b55ae0a835f19305">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-28ec6ef1d7b54a9d8d42dcd5dc5e7969"
+      font="1|Lucida Grande|18.0|1|COCOA|1|LucidaGrande-Bold"
+      textAlignment="1"
+      content="Initiatives Roadmap&#xA;&#xA;&#xA;">
+    <bounds
+        x="12"
+        y="24"
+        width="421"
+        height="36"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8747cff7fdbd4a4caa07447d1166bc63"
+      name="Legend"
+      textAlignment="1">
+    <features
+        name="legend"
+        value="display=15,rows=15,offset=0,color=1,sort=1"/>
+    <bounds
+        x="432"
+        y="24"
+        width="169"
+        height="157"/>
+  </children>
+</archimate:ArchimateDiagramModel>
