@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ-003 Unstructured Doc Processing"
+    id="id-e53b4e05c56449708cfef610f20c243a"
+    documentation="Extract data from PDF/Images automatically"/>

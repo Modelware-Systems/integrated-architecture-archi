@@ -41,16 +41,4 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-efc7ec4383014e27b349b510d2fc05f6.xml#id-efc7ec4383014e27b349b510d2fc05f6"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-25df86ba77a04e109eb5c27dc41b4736">
-    <bounds
-        x="157"
-        y="346"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-9b5d0b5b81e447d1b7758f4bb8aa4a7f.xml#id-9b5d0b5b81e447d1b7758f4bb8aa4a7f"/>
-  </children>
 </archimate:ArchimateDiagramModel>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ-002 Historical Claims Analysis"
+    id="id-c7a23de6e83d41c48f982caa610dd32c"
+    documentation="Store 10+ years of claims data for trend analysis"/>

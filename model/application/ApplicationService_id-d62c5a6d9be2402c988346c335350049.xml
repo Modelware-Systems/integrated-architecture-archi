@@ -1,4 +1,4 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Model Serving (Inference)"
-    id="id-934fb5ce6f0b414b91720b5f25389a00"/>
+    name="Model Training"
+    id="id-d62c5a6d9be2402c988346c335350049"/>

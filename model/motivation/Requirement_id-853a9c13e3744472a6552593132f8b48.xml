@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ-001 Real-time Fraud Detection"
+    id="id-853a9c13e3744472a6552593132f8b48"
+    documentation="Score claims within &lt; 500ms during submission"/>
