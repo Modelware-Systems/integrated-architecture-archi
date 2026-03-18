@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Lake Storage"
+    id="id-90cbd0b1e25b48f89433a418254a759c"
+    documentation="Raw and curated object storage for high-volume unstructured data"/>
