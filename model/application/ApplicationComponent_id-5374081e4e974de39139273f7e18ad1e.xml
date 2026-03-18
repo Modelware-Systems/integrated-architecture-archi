@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vector Database"
-    id="id-5374081e4e974de39139273f7e18ad1e"/>
+    id="id-5374081e4e974de39139273f7e18ad1e"
+    documentation="Storage for embeddings to support RAG/GenAl search"/>

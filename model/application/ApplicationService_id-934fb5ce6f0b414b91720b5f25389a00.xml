@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Model Serving (Inference)"
-    id="id-934fb5ce6f0b414b91720b5f25389a00"/>
+    id="id-934fb5ce6f0b414b91720b5f25389a00"
+    documentation="Scalable inference endpoint for deploying ML models"/>

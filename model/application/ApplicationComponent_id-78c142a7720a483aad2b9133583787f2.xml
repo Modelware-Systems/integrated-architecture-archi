@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Event Streaming Bus"
-    id="id-78c142a7720a483aad2b9133583787f2"/>
+    id="id-78c142a7720a483aad2b9133583787f2"
+    documentation="Real-time data ingestion and event distribution backbone"/>

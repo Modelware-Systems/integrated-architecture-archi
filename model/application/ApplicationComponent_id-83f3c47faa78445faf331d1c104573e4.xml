@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legacy ETL Tool"
+    id="id-83f3c47faa78445faf331d1c104573e4"
+    documentation="On-premise batch data integration tool (Retiring)"/>
