@@ -10,7 +10,7 @@
       textAlignment="1"
       content="Strategic Objectives&#xA;&#xA;">
     <bounds
-        x="12"
+        x="-36"
         y="12"
         width="1117"
         height="36"/>
@@ -216,7 +216,7 @@
           href="CompositionRelationship_id-0b359ec92ba449e69b7615e2ebfa317d.xml#id-0b359ec92ba449e69b7615e2ebfa317d"/>
     </sourceConnections>
     <bounds
-        x="600"
+        x="576"
         y="60"
         width="289"
         height="817"/>
@@ -317,7 +317,7 @@
           href="CompositionRelationship_id-9aa95a9de9884396a9faea4e2e8481d6.xml#id-9aa95a9de9884396a9faea4e2e8481d6"/>
     </sourceConnections>
     <bounds
-        x="900"
+        x="864"
         y="60"
         width="205"
         height="817"/>
@@ -418,7 +418,7 @@
       id="id-1fccfba0a8ca438ab0afb5b34948083c"
       textAlignment="1">
     <bounds
-        x="264"
+        x="252"
         y="60"
         width="325"
         height="817"/>
@@ -487,7 +487,7 @@
         name="legend"
         value="display=15,rows=15,offset=0,color=1,sort=1"/>
     <bounds
-        x="1128"
+        x="1080"
         y="12"
         width="210"
         height="204"/>
